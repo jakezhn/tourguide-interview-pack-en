@@ -10,7 +10,7 @@
   - English: When you’re on duty, how do you show people you’re a licensed guide?
 - **回答 Answer**
   - 中文：1）携带电子导游证；2）佩戴导游身份标识；3）开启导游执业相关应用软件。
-  - English: 1) Keep your digital guide license with you; 2) Wear your guide ID badge; 3) Keep the guide-service apps you use for work open and ready.
+  - English: Carry your digital guide license, wear your ID badge, and keep the required guide-service apps running so guests can confirm your identity anytime.
 
 ### 2. 导游服务的范围主要包括哪些？
 - **问题 Question**
@@ -18,7 +18,7 @@
   - English: What areas do tour-guide services actually cover?
 - **回答 Answer**
   - 中文：1）向导服务；2）讲解服务；3）迎送、交通、住宿、用餐、游览、购物、文娱等相关旅游服务。
-  - English: 1) Leading and escorting; 2) Interpreting and storytelling; 3) Handling arrivals, departures, transport, lodging, meals, sightseeing, shopping, and leisure arrangements.
+  - English: It covers leading and escorting the group, interpreting what they see and hear, and lining up everything else—welcomes and farewells, transport, hotels, meals, sightseeing, shopping, and cultural fun.
 
 ### 3. 导游讲解服务包括哪些内容？
 - **问题 Question**
@@ -26,7 +26,7 @@
   - English: What’s included when you say “guided commentary”?
 - **回答 Answer**
   - 中文：1）沿途讲解；2）参观点讲解；3）座谈访问及部分参观点的口译服务。
-  - English: 1) On-the-road narration; 2) Site-specific storytelling; 3) Helping with briefings, visits, or on-the-spot interpretation when needed.
+  - English: We narrate along the way, dive deeper at each stop, and jump in with briefings or live interpretation whenever the group needs it.
 
 ### 4. 导游服务的作用主要体现在哪几个方面？
 - **问题 Question**
@@ -34,7 +34,7 @@
   - English: In what ways does a guide’s work really make a difference?
 - **回答 Answer**
   - 中文：1）纽带作用；2）标志作用；3）反馈作用；4）扩散作用。
-  - English: 1) Acting as the link between parties; 2) Serving as the face of the trip; 3) Passing feedback both ways; 4) Spreading information and influence.
+  - English: A guide keeps everyone connected, represents the tour to the outside world, relays feedback up and down the chain, and helps good information travel further.
 
 ### 5. 导游服务质量主要由哪几方面组成？
 - **问题 Question**
@@ -42,7 +42,7 @@
   - English: What elements make up the quality of guiding service?
 - **回答 Answer**
   - 中文：1）讲解质量；2）生活服务质量；3）旅游活动落实质量。
-  - English: 1) How solid and engaging your commentary is; 2) How well you take care of guests’ daily needs; 3) How reliably you execute each activity on the itinerary.
+  - English: Quality shows up in three places: how engaging and accurate your commentary feels, how well you look after daily needs, and how smoothly each activity on the itinerary is delivered.
 
 ### 6. 导游服务的三要素是什么？
 - **问题 Question**
@@ -50,7 +50,7 @@
   - English: What are the three pillars of guiding?
 - **回答 Answer**
   - 中文：1）语言；2）知识；3）服务技能。
-  - English: 1) Language ability; 2) Knowledge reserves; 3) Hands-on service skills.
+  - English: You need confident language delivery, strong knowledge reserves, and solid hands-on service skills.
 
 ### 7. 导游应掌握哪些业务知识？
 - **问题 Question**
@@ -58,7 +58,7 @@
   - English: What professional knowledge should a guide really have?
 - **回答 Answer**
   - 中文：1）掌握客源地与目的地的法律法规、时政、经济、社会、历史、地理、文化民俗以及心理、美学知识；2）掌握旅行常识，如证件、领保、客货运、机票政策、海关和移民规定及应急医疗常识；3）宜掌握旅游产品策划、线路设计等专业知识。
-  - English: 1) Know the key laws, current affairs, economy, society, history, geography, culture, customs, plus some psychology and aesthetics for both source markets and destinations; 2) Understand travel basics like documents, consular protection, passenger and baggage rules, airfare policies, customs and immigration rules, and basic first aid; 3) It really helps to understand product planning and itinerary design.
+  - English: Know the laws, current affairs, history, geography, culture, customs, and even a bit of psychology for both the source and destination; understand practical travel know-how such as documents, consular protection, transport rules, fares, customs and immigration, and first aid; and, if possible, learn product planning and itinerary design.
 
 ### 8. 导游应具备哪些技术技能？
 - **问题 Question**
@@ -66,7 +66,7 @@
   - English: What technical skills does a guide need nowadays?
 - **回答 Answer**
   - 中文：1）语言能力；2）接待操作能力；3）信息技术应用能力。
-  - English: 1) Strong language delivery; 2) Solid operational know-how for hosting; 3) The ability to use digital tools confidently.
+  - English: That means fluent language skills, the ability to run every reception procedure smoothly, and the confidence to use modern digital tools.
 
 ### 9. 全程陪同导游的主要职责是什么？
 - **问题 Question**
@@ -74,7 +74,7 @@
   - English: If you’re the tour escort for the whole journey, what are your main duties?
 - **回答 Answer**
   - 中文：1）实施接待计划；2）做好联络；3）组织协调；4）维护安全并处理问题；5）兼顾宣传与调研。
-  - English: 1) Execute the reception plan; 2) Keep all lines of communication open; 3) Coordinate people and logistics; 4) Safeguard the group and solve issues; 5) Share updates, collect info, and promote when needed.
+  - English: You carry out the reception plan, manage communications, coordinate people and logistics, look after safety and problem-solving, and handle publicity or research tasks along the way.
 
 ### 10. 地方陪同导游的主要职责是什么？
 - **问题 Question**
@@ -82,14 +82,14 @@
   - English: When you’re the local guide, what do you focus on?
 - **回答 Answer**
   - 中文：1）安排当地旅游活动；2）做好接待；3）提供讲解；4）维护游客安全；5）处理相关问题。
-  - English: 1) Line up the local activities; 2) Host the group properly; 3) Deliver the commentary; 4) Keep everyone safe; 5) Sort out any local issues.
+  - English: You organise each local activity, take care of reception work, deliver the commentary, watch over safety, and deal with anything that pops up on the spot.
 ### 11. 景区导游的主要职责是什么？
 - **问题 Question**
   - 中文：景区导游的主要职责是什么？
   - English: As an on-site scenic-area guide, what are you responsible for?
 - **回答 Answer**
   - 中文：1）提供讲解；2）做好安全提示；3）宣讲环境、生态和文物保护知识。
-  - English: 1) Give the site commentary; 2) Issue clear safety reminders; 3) Share tips on protecting the environment, ecology, and heritage.
+  - English: On site you tell the stories, offer clear safety reminders, and pass along the do’s and don’ts for protecting the environment, ecology, and relics.
 
 ### 12. 导游带团过程中应具备哪些行为规范？
 - **问题 Question**
@@ -97,7 +97,7 @@
   - English: What code of conduct should you follow while leading a tour?
 - **回答 Answer**
   - 中文：1）忠于祖国，坚持“内外有别”；2）遵守规章制度，执行请示汇报；3）自觉守法；4）自尊自爱，维护人格与国格；5）注意细节。
-  - English: 1) Stay loyal to the country and follow the “different messages for home and abroad” principle; 2) Stick to rules and follow reporting procedures; 3) Obey the law; 4) Show self-respect and uphold national dignity; 5) Mind the small things.
+  - English: Stay loyal to the country and remember the “different audiences, different messaging” rule, work strictly by policy with proper briefings, obey the law, carry yourself with dignity, and sweat the small details.
 
 ### 13. 导游应具备哪些语言能力？
 - **问题 Question**
@@ -105,7 +105,7 @@
   - English: What language skills should a guide have?
 - **回答 Answer**
   - 中文：1）具备良好表达，熟练运用相关语种；2）懂礼貌语言并合理使用体态语言；3）熟练掌握讲解技巧，做到正确清楚、生动灵活。
-  - English: 1) Speak fluently and confidently in the working language; 2) Use polite expressions and supportive body language; 3) Master storytelling techniques so everything is accurate, clear, lively, and flexible.
+  - English: Speak fluently and confidently in the language required, mix polite words with supportive body language, and use storytelling techniques that keep things accurate, clear, lively, and flexible.
 
 ### 14. 地陪在接到接待任务后，应做好哪些准备？
 - **问题 Question**
@@ -113,7 +113,7 @@
   - English: After you get a local guiding assignment, how do you get ready?
 - **回答 Answer**
   - 中文：1）熟悉计划，掌握游客信息、行程、特殊要求和注意事项；2）准备证件、票据、导游旗等；3）根据行程与游客情况补充相关知识；4）落实交通、食宿、票务、活动，确认抵达信息并与司机约定会面与停车位置。
-  - English: 1) Study the plan and know the guests, itinerary, special needs, and reminders; 2) Get documents, vouchers, guide flag, and gear ready; 3) Brush up on the knowledge you’ll need for this group; 4) Lock in transport, hotels, meals, tickets, activities, arrival details, plus coordinate with the driver about meeting points and parking.
+  - English: Study the plan so you know the guests, itinerary, and special requests; prep documents, vouchers, the guide flag, and other gear; refresh the knowledge that fits this group; and confirm transport, hotels, meals, tickets, arrival times, and the meeting/parking arrangements with the driver.
 
 ### 15. 导游应具备哪些思想素质？
 - **问题 Question**
@@ -121,7 +121,7 @@
   - English: What mindset and values should a guide hold?
 - **回答 Answer**
   - 中文：1）热爱祖国，践行社会主义核心价值观；2）恪守职业道德，游客为本、服务至诚；3）秉承契约精神，按合同提供服务，维护游客和旅行社权益。
-  - English: 1) Love the country and live the core socialist values; 2) Follow professional ethics—put guests first and serve sincerely; 3) Honor the contract so that both travelers and the agency are protected.
+  - English: First, love the country and live the core socialist values. Then, follow professional ethics—put guests first and serve sincerely. Finally, honor the contract so that both travelers and the agency are protected.
 
 ### 16. 导游应具备哪些信息技术应用能力？
 - **问题 Question**
@@ -129,7 +129,7 @@
   - English: What IT skills should a modern guide have?
 - **回答 Answer**
   - 中文：1）熟练使用移动通信终端及相关社交、通信、移动办公软件；2）能协助游客用移动互联网完成预订、导航、咨询、评价等。
-  - English: 1) Use smartphones, social apps, messaging tools, and mobile office software with ease; 2) Help guests book products, navigate, get info, and leave reviews online.
+  - English: First, use smartphones, social apps, messaging tools, and mobile office software with ease. Finally, help guests book products, navigate, get info, and leave reviews online.
 
 ### 17. 导游应如何正确使用导游旗？
 - **问题 Question**
@@ -137,7 +137,7 @@
   - English: How do you handle the guide flag properly?
 - **回答 Answer**
   - 中文：1）超过10名游客要持旗，旗杆直立、旗面醒目，不用怪异装饰；2）暂不使用时妥善放置，不可垫坐或玩耍。
-  - English: 1) If you’ve got more than ten guests, keep the flag upright and visible without odd decorations; 2) When it’s not in use, store it neatly—don’t sit on it or treat it like a toy.
+  - English: First, if you’ve got more than ten guests, keep the flag upright and visible without odd decorations. Finally, when it’s not in use, store it neatly—don’t sit on it or treat it like a toy.
 
 ### 18. 接团当天，抵达前地陪应做好哪些安排？
 - **问题 Question**
@@ -145,7 +145,7 @@
   - English: On arrival day and before the group shows up, what should the local guide line up?
 - **回答 Answer**
   - 中文：1）确认交通工具抵达时间；2）联系旅游车司机；3）联系行李员；4）再次核实抵达时间；5）持接站牌迎候。
-  - English: 1) Double-check the actual arrival time; 2) Coordinate with the driver; 3) Touch base with the porter; 4) Reconfirm timing; 5) Hold the welcome sign and wait in place.
+  - English: First, double-check the actual arrival time. Then, coordinate with the driver. Next, touch base with the porter. After that, reconfirm timing. Finally, hold the welcome sign and wait in place.
 
 ### 19. 旅游团抵达后，地陪应做好哪些工作？
 - **问题 Question**
@@ -153,7 +153,7 @@
   - English: Once the group arrives, what should you do right away?
 - **回答 Answer**
   - 中文：1）认找旅游团；2）核实人数，不符及时报备；3）集中检查行李，协助遗失或破损申报；4）集合登车，礼貌清点人数后启程。
-  - English: 1) Confirm you’ve got the right group; 2) Count everyone and report any mismatch; 3) Check baggage together and help file loss or damage claims; 4) Gather everyone on the coach, do a polite headcount, then roll out.
+  - English: First, confirm you’ve got the right group. Then, count everyone and report any mismatch. Next, check baggage together and help file loss or damage claims. Finally, gather everyone on the coach, do a polite headcount, then roll out.
 
 ### 20. 接站服务中，地陪的欢迎辞一般包括哪几个方面？
 - **问题 Question**
@@ -161,14 +161,14 @@
   - English: What should you cover in your welcome speech at the station or airport?
 - **回答 Answer**
   - 中文：1）真诚问候；2）代表旅行社、本人及司机欢迎；3）介绍自己和司机；4）表达服务愿望；5）预祝旅程愉快顺利。
-  - English: 1) Greet everyone warmly; 2) Welcome them on behalf of the agency, yourself, and the driver; 3) Introduce yourself and the driver; 4) Let them know you’re eager to serve; 5) Wish them a smooth, happy trip.
+  - English: First, greet everyone warmly. Then, welcome them on behalf of the agency, yourself, and the driver. Next, introduce yourself and the driver. After that, let them know you’re eager to serve. Finally, wish them a smooth, happy trip.
 ### 21. 首次沿途导游的内容主要包括哪些方面？
 - **问题 Question**
   - 中文：首次沿途导游的内容主要包括哪些方面？
   - English: During the first en-route commentary, what should you cover?
 - **回答 Answer**
   - 中文：1）介绍本地概况；2）讲风光风情；3）介绍下榻饭店。
-  - English: 1) Give a snapshot of the destination; 2) Talk about the scenery and local vibe; 3) Brief everyone on the hotel they’ll stay in.
+  - English: First, give a snapshot of the destination. Then, talk about the scenery and local vibe. Finally, brief everyone on the hotel they’ll stay in.
 
 ### 22. 首次沿途导游时应注意哪些操作规范？
 - **问题 Question**
@@ -176,7 +176,7 @@
   - English: When you’re doing that first bus talk, what practical tips matter?
 - **回答 Answer**
   - 中文：1）站在车前部、司机右后侧，能看见每位游客；2）面带微笑、表情自然；3）正确用话筒，先问音量是否合适；4）音量适中；5）语速得当。
-  - English: 1) Stand near the front on the driver’s right so everyone can see you; 2) Smile naturally; 3) Use the mic properly and check if the volume is okay; 4) Keep the volume comfortable; 5) Pace your speech.
+  - English: First, stand near the front on the driver’s right so everyone can see you. Then, smile naturally. Next, use the mic properly and check if the volume is okay. After that, keep the volume comfortable. Finally, pace your speech.
 
 ### 23. 旅游团抵达饭店后，地陪应做好哪些工作？
 - **问题 Question**
@@ -184,7 +184,7 @@
   - English: After the group reaches the hotel, what’s next for you?
 - **回答 Answer**
   - 中文：1）协助办理入住；2）介绍设施和注意事项；3）照顾行李进房；4）处理入住后的问题；5）安排叫早。
-  - English: 1) Help with check-in; 2) Explain the facilities and house rules; 3) Get luggage up to the rooms; 4) Solve any issues that pop up; 5) Arrange wake-up calls.
+  - English: First, help with check-in. Then, explain the facilities and house rules. Next, get luggage up to the rooms. After that, solve any issues that pop up. Finally, arrange wake-up calls.
 
 ### 24. 出发参观前，地陪应做好哪些工作？
 - **问题 Question**
@@ -192,7 +192,7 @@
   - English: Before heading out for sightseeing, what prep do you do?
 - **回答 Answer**
   - 中文：1）提前到集合点，督促司机准备；2）核实清点人数；3）提醒注意事项；4）准时集合登车，出发前再清点一次。
-  - English: 1) Arrive early and make sure the driver’s ready; 2) Count everyone; 3) Remind them of key points; 4) Board on time and do one more headcount before leaving.
+  - English: First, arrive early and make sure the driver’s ready. Then, count everyone. Next, remind them of key points. Finally, board on time and do one more headcount before leaving.
 
 ### 25. 到达景点时应交代哪些注意事项？
 - **问题 Question**
@@ -200,7 +200,7 @@
   - English: Once you reach a site, what do you need to brief them on?
 - **回答 Answer**
   - 中文：1）下车前提醒记住车辆型号、颜色、标志、车号、停车点和开车时间；2）在示意图前说明线路、游览时间、集合时间地点及注意事项。
-  - English: 1) Before they get off, remind them of the coach’s model, color, logo, plate, parking spot, and departure time; 2) Use the map to show the route, duration, meet-up time and place, plus any dos and don’ts.
+  - English: First, before they get off, remind them of the coach’s model, color, logo, plate, parking spot, and departure time. Finally, use the map to show the route, duration, meet-up time and place, plus any dos and don’ts.
 
 ### 26. 当天游览结束返回途中，地陪应做什么？
 - **问题 Question**
@@ -208,7 +208,7 @@
   - English: On the ride back after a day’s touring, what should you cover?
 - **回答 Answer**
   - 中文：1）回顾当天活动并听取意见；2）回答问题并必要时补充讲解；3）沿途继续介绍；4）公布次日安排；5）提醒下车带好物品，先下车照顾游客。
-  - English: 1) Recap the day and get feedback; 2) Answer questions or add details; 3) Keep pointing out sights; 4) Announce tomorrow’s plan, time, and meeting spot; 5) Remind them to take belongings, get off first, and assist them.
+  - English: First, recap the day and get feedback. Then, answer questions or add details. Next, keep pointing out sights. After that, announce tomorrow’s plan, time, and meeting spot. Finally, remind them to take belongings, get off first, and assist them.
 
 ### 27. 提供用餐服务时，导游应做好哪些工作？
 - **问题 Question**
@@ -216,7 +216,7 @@
   - English: What does good meal service look like for a guide?
 - **回答 Answer**
   - 中文：1）提前联系餐厅核实订餐；2）简单介绍特色菜肴；3）引导入座并介绍设施；4）倡导文明用餐与公筷公勺；5）关注用餐情况，解答疑问并处理问题。
-  - English: 1) Confirm the booking with the restaurant ahead of time; 2) Brief them on any specialty dishes; 3) Show them to their seats and point out facilities; 4) Promote polite dining and shared serving utensils; 5) Keep an eye on the meal and solve questions or issues quickly.
+  - English: First, confirm the booking with the restaurant ahead of time. Then, brief them on any specialty dishes. Next, show them to their seats and point out facilities. After that, promote polite dining and shared serving utensils. Finally, keep an eye on the meal and solve questions or issues quickly.
 
 ### 28. 开展计划内文娱活动时，地陪应提供哪些服务？
 - **问题 Question**
@@ -224,7 +224,7 @@
   - English: When you host a scheduled cultural or entertainment program, what’s expected?
 - **回答 Answer**
   - 中文：1）陪同前往并简要介绍活动内容和特点；2）按时组织入场，倡导文明参与；3）告知散场集合时间地点；4）提醒注意人身财物安全并提示必要防范；5）结束时提醒不要遗留物品并有序离场。
-  - English: 1) Escort them there and explain what the activity is about; 2) Get everyone in on time and encourage courteous behavior; 3) Tell them when and where to regroup afterward; 4) Remind them about personal and property safety; 5) At the end, remind them not to leave belongings and to exit in order.
+  - English: First, escort them there and explain what the activity is about. Then, get everyone in on time and encourage courteous behavior. Next, tell them when and where to regroup afterward. After that, remind them about personal and property safety. Finally, at the end, remind them not to leave belongings and to exit in order.
 
 ### 29. 参观结束送行前，地陪要做哪些工作？
 - **问题 Question**
@@ -232,7 +232,7 @@
   - English: After finishing a city’s program and before departure, what should you sort out?
 - **回答 Answer**
   - 中文：1）核实交通票据；2）商定叫早、早餐、出行李、集合出发时间；3）提醒游客尽早结清饭店账目；4）检查物品并归还证件票据。
-  - English: 1) Check the tickets; 2) Agree on wake-up calls, breakfast, luggage pickup, and departure times; 3) Remind them to settle hotel charges; 4) Make sure personal items, documents, and vouchers are all in order.
+  - English: First, check the tickets. Then, agree on wake-up calls, breakfast, luggage pickup, and departure times. Next, remind them to settle hotel charges. Finally, make sure personal items, documents, and vouchers are all in order.
 
 ### 30. 送行服务中的欢送辞包括哪些方面？
 - **问题 Question**
@@ -240,14 +240,14 @@
   - English: When you say goodbye at departure, what should the farewell speech include?
 - **回答 Answer**
   - 中文：1）感谢游客、领队、全陪、司机的配合；2）表达友谊与惜别；3）征询意见建议；4）如有不足表达歉意；5）送上祝福并期待再会。
-  - English: 1) Thank the guests, the escort, and the driver for their teamwork; 2) Express friendship and that bittersweet feeling of parting; 3) Ask for feedback; 4) Apologize for anything that wasn’t perfect; 5) Offer best wishes and hope to meet again.
+  - English: First, thank the guests, the escort, and the driver for their teamwork. Then, express friendship and that bittersweet feeling of parting. Next, ask for feedback. After that, apologize for anything that wasn’t perfect. Finally, offer best wishes and hope to meet again.
 ### 31. 全陪接团前的知识准备包括哪些？
 - **问题 Question**
   - 中文：全陪在接团准备工作中要做好的知识准备包括哪些方面？
   - English: As the escort guide, what knowledge prep do you do before meeting the group?
 - **回答 Answer**
   - 中文：1）熟悉客源国（地区）情况；2）掌握目的地知识；3）了解行程相关专题知识。
-  - English: 1) Learn about the source country or region; 2) Know the destination well; 3) Dive into any special topics tied to the itinerary.
+  - English: First, learn about the source country or region. Then, know the destination well. Finally, dive into any special topics tied to the itinerary.
 
 ### 32. 全陪在沿途各站需做好哪些服务？
 - **问题 Question**
@@ -255,7 +255,7 @@
   - English: Travelling between stops, what services does the tour escort provide?
 - **回答 Answer**
   - 中文：1）做好各站联络，协调领队、地陪与游客；2）在活动各环节协助地陪；3）检查督促各站服务质量并解决问题；4）维护安全，做好提醒并协助处理突发事件；5）提供旅途中的生活与讲解服务并充当购物顾问。
-  - English: 1) Coordinate across all stops and keep the escort, local guides, and guests aligned; 2) Support the local guide at every stage; 3) Monitor service quality and fix issues; 4) Safeguard the group with constant reminders and help in emergencies; 5) Handle day-to-day needs, keep up the commentary, and advise on shopping.
+  - English: First, coordinate across all stops and keep the escort, local guides, and guests aligned. Then, support the local guide at every stage. Next, monitor service quality and fix issues. After that, safeguard the group with constant reminders and help in emergencies. Finally, handle day-to-day needs, keep up the commentary, and advise on shopping.
 
 ### 33. 全陪到站前应提供哪些服务？
 - **问题 Question**
@@ -263,7 +263,7 @@
   - English: When moving the group from one stop to the next, what should the escort do?
 - **回答 Answer**
   - 中文：1）向下一站通报团组信息；2）带领旅游团顺利出站；3）做好与地陪的接头；4）向地陪转告游客需求与情况。
-  - English: 1) Notify the next stop about the group; 2) Guide everyone through arrivals or exits; 3) Meet up smoothly with the local guide; 4) Brief the local guide on guest needs.
+  - English: First, notify the next stop about the group. Then, guide everyone through arrivals or exits. Next, meet up smoothly with the local guide. Finally, brief the local guide on guest needs.
 
 ### 34. 导游语言应具备哪些特性？
 - **问题 Question**
@@ -271,7 +271,7 @@
   - English: Beyond being grammatically correct, what should a guide’s language be like?
 - **回答 Answer**
   - 中文：1）准确；2）有逻辑；3）生动。
-  - English: 1) Accurate; 2) Logical; 3) Vivid.
+  - English: First, accurate. Then, logical. Finally, vivid.
 
 ### 35. 导游口头语言的表达要领有哪些？
 - **问题 Question**
@@ -279,7 +279,7 @@
   - English: What are the basics of delivering commentary out loud?
 - **回答 Answer**
   - 中文：1）音量适度；2）语调有起伏；3）语速合适；4）停顿恰当。
-  - English: 1) Keep the volume comfortable; 2) Vary your tone; 3) Control your pace; 4) Use pauses wisely.
+  - English: First, keep the volume comfortable. Then, vary your tone. Next, control your pace. Finally, use pauses wisely.
 
 ### 36. 面部表情控制应注意哪些要点？
 - **问题 Question**
@@ -287,7 +287,7 @@
   - English: While speaking, how should you manage facial expressions?
 - **回答 Answer**
   - 中文：1）灵敏，与内容或游客反应同步；2）鲜明，不含糊；3）真诚，带入真情；4）有分寸，自然协调。
-  - English: 1) Let expressions respond to the topic and the audience; 2) Keep them clear and readable; 3) Be genuine; 4) Stay natural and balanced.
+  - English: First, let expressions respond to the topic and the audience. Then, keep them clear and readable. Next, be genuine. Finally, stay natural and balanced.
 
 ### 37. 与游客交谈时应运用哪些语言技巧？
 - **问题 Question**
@@ -295,7 +295,7 @@
   - English: When chatting with travelers, what conversational tricks help?
 - **回答 Answer**
   - 中文：1）先寒暄；2）真诚；3）内容健康；4）言语中肯；5）看人说话；6）把握谈话节奏。
-  - English: 1) Start with a friendly greeting; 2) Be sincere; 3) Keep topics positive; 4) Be to the point; 5) Read the person you’re talking to; 6) Guide the flow of the chat.
+  - English: First, first, a friendly greeting. Then, be sincere. Next, keep topics positive. After that, be to the point. Also, read the person you’re talking to. Finally, guide the flow of the chat.
 
 ### 38. 导游带团应遵循哪些原则？
 - **问题 Question**
@@ -303,7 +303,7 @@
   - English: What core principles should guide your work with a tour?
 - **回答 Answer**
   - 中文：1）游客至上；2）服务至上；3）履行合同；4）公平对待。
-  - English: 1) Guests first; 2) Service first; 3) Honour the contract; 4) Treat everyone fairly.
+  - English: First, guests first. Then, service first. Next, honour the contract. Finally, treat everyone fairly.
 
 ### 39. 导游如何尽快确立主导地位？
 - **问题 Question**
@@ -311,7 +311,7 @@
   - English: How do you quickly gain leadership within the group?
 - **回答 Answer**
   - 中文：1）以诚待人、热情服务；2）换位思考、宽以待客；3）树立威信，善于掌控局面。
-  - English: 1) Serve warmly and sincerely; 2) Think from the guest’s perspective; 3) Build credibility and handle situations confidently.
+  - English: First, serve warmly and sincerely. Then, think from the guest’s perspective. Finally, build credibility and handle situations confidently.
 
 ### 40. 导游如何激发旅游者的游兴？
 - **问题 Question**
@@ -319,14 +319,14 @@
   - English: How can you keep travelers excited during the tour?
 - **回答 Answer**
   - 中文：1）用直观形象激发；2）运用语言艺术激发；3）组织文娱活动激发；4）用声像导游手段激发。
-  - English: 1) Use visuals to spark interest; 2) Let your words paint the picture; 3) Organize light entertainment; 4) Use multimedia tools when possible.
+  - English: First, use visuals to spark interest. Then, let your words paint the picture. Next, organize light entertainment. Finally, use multimedia tools when possible.
 ### 41. 导游心理服务技巧有哪些？
 - **问题 Question**
   - 中文：导游在为旅游者服务时，应把握的心理服务技巧主要有哪些？
   - English: What people skills matter most when looking after guests?
 - **回答 Answer**
   - 中文：1）尊重旅游者；2）微笑服务；3）使用柔性语言；4）与游客建立伙伴关系；5）提供个性化服务。
-  - English: 1) Show respect; 2) Serve with a smile; 3) Use gentle, caring wording; 4) Build a partner-like rapport; 5) Customize support.
+  - English: First, show respect. Then, serve with a smile. Next, use gentle, caring wording. After that, build a partner-like rapport. Finally, customize support.
 
 ### 42. 组织旅游活动常用哪些技巧？
 - **问题 Question**
@@ -334,7 +334,7 @@
   - English: What tricks help you organize tour activities well?
 - **回答 Answer**
   - 中文：1）灵活搭配活动；2）科学安排饮食；3）尽快安排入住；4）注意旅行服务技巧；5）引导理性购物。
-  - English: 1) Mix and match activities smartly; 2) Plan meals sensibly; 3) Get them checked in quickly; 4) Apply thoughtful service tactics; 5) Steer them toward rational shopping.
+  - English: First, mix and match activities smartly. Then, plan meals sensibly. Next, get them checked in quickly. After that, apply thoughtful service tactics. Finally, steer them toward rational shopping.
 
 ### 43. 全陪（地陪）与领队应如何协作？
 - **问题 Question**
@@ -342,7 +342,7 @@
   - English: How should escorts or local guides team up with the group leader?
 - **回答 Answer**
   - 中文：1）尊重领队，多磋商；2）关心领队生活，支持其工作；3）多给荣誉，调动积极性；4）灵活应变，掌握主动；5）争取游客支持，避免冲突。
-  - English: 1) Respect the leader and consult often; 2) Look after them and back their work; 3) Share credit to keep morale high; 4) Stay flexible and proactive; 5) Win guest support and avoid head-on clashes.
+  - English: First, respect the leader and consult often. Then, look after them and back their work. Next, share credit to keep morale high. After that, stay flexible and proactive. Finally, win guest support and avoid head-on clashes.
 
 ### 44. 接待有儿童的旅游团应注意什么？
 - **问题 Question**
@@ -350,7 +350,7 @@
   - English: When kids are in the group, what extra care do you take?
 - **回答 Answer**
   - 中文：1）重视儿童安全；2）做到“四不宜”：不为讨好买食玩具、不因照顾儿童冷落他人、不在家长同意下单独带儿童外出、不建议随意用药，应请医生；3）关照儿童饮食起居；4）注意收费标准。
-  - English: 1) Safety comes first; 2) Follow the “four no’s”: don’t bribe kids with food or toys, don’t let the rest feel ignored, don’t take a child out alone even with parental consent, and don’t suggest medicine—involve a doctor instead; 3) Help with meals and routines; 4) Respect the correct pricing rules.
+  - English: First, safety comes first. Then, follow the “four no’s”: don’t bribe kids with food or toys, don’t let the rest feel ignored, don’t take a child out alone even with parental consent, and don’t suggest medicine—involve a doctor instead. Next, help with meals and routines. Finally, respect the correct pricing rules.
 
 ### 45. 接待高龄游客应注意什么？
 - **问题 Question**
@@ -358,7 +358,7 @@
   - English: What about working with senior travelers?
 - **回答 Answer**
   - 中文：1）妥善安排日程；2）做好提醒；3）放慢节奏；4）耐心解答；5）防止走失；6）尊重西方传统（如适用）。
-  - English: 1) Plan a gentle schedule; 2) Remind them often; 3) Slow things down; 4) Answer patiently; 5) Prevent anyone from getting lost; 6) Respect Western customs when relevant.
+  - English: First, plan a gentle schedule. Then, remind them often. Next, slow things down. After that, answer patiently. Also, prevent anyone from getting lost. Finally, respect Western customs when relevant.
 
 ### 46. 导游讲解应遵循哪些原则？
 - **问题 Question**
@@ -366,7 +366,7 @@
   - English: What principles guide your storytelling?
 - **回答 Answer**
   - 中文：1）客观；2）针对；3）计划；4）灵活。
-  - English: 1) Be objective; 2) Tailor the content; 3) Work to a plan; 4) Stay flexible.
+  - English: First, be objective. Then, tailor the content. Next, work to a plan. Finally, stay flexible.
 
 ### 47. 接待过程中容易发生哪些安全事故？
 - **问题 Question**
@@ -374,7 +374,7 @@
   - English: What safety incidents do we watch out for most?
 - **回答 Answer**
   - 中文：1）交通事故；2）治安事故；3）火灾事故；4）食物中毒。
-  - English: 1) Traffic accidents; 2) Security issues; 3) Fires; 4) Food poisoning.
+  - English: First, traffic accidents. Then, security issues. Next, fires. Finally, food poisoning.
 
 ### 48. 处理游客个别要求应遵循哪些原则？
 - **问题 Question**
@@ -382,7 +382,7 @@
   - English: When dealing with individual requests, what rules keep you safe?
 - **回答 Answer**
   - 中文：1）符合法律法规；2）合理可行；3）尊重游客；4）公平对待；5）维护尊严。
-  - English: 1) Follow the law; 2) Only promise what’s reasonable; 3) Respect the guest; 4) Keep things fair; 5) Protect everyone’s dignity.
+  - English: First, follow the law. Then, only promise what’s reasonable. Next, respect the guest. After that, keep things fair. Finally, protect everyone’s dignity.
 
 ### 49. 入境旅游常用的有效证件有哪些？
 - **问题 Question**
@@ -390,7 +390,7 @@
   - English: For inbound travel to China, what documents count?
 - **回答 Answer**
   - 中文：1）护照；2）签证；3）港澳居民来往内地通行证；4）台湾居民来往大陆通行证。
-  - English: 1) Passport; 2) Visa; 3) Mainland Travel Permit for Hong Kong and Macao Residents; 4) Mainland Travel Permit for Taiwan Residents.
+  - English: First, passport. Then, visa. Next, mainland Travel Permit for Hong Kong and Macao Residents. Finally, mainland Travel Permit for Taiwan Residents.
 
 ### 50. 出境旅游常用的有效证件有哪些？
 - **问题 Question**
@@ -398,7 +398,7 @@
   - English: For Chinese citizens traveling abroad, what paperwork is needed?
 - **回答 Answer**
   - 中文：1）护照；2）签证；3）往来港澳通行证；4）往来台湾通行证及入台证。
-  - English: 1) Passport; 2) Relevant visas; 3) Permit for trips to Hong Kong and Macao; 4) Permit and entry approval for Taiwan.
+  - English: First, passport. Then, relevant visas. Next, permit for trips to Hong Kong and Macao. Finally, permit and entry approval for Taiwan.
 ## 导游应变能力 50 题
 
 ### 1. 导游处理突发事件和常见问题应遵循什么原则？
@@ -407,7 +407,7 @@
   - English: What ground rules guide you when something unexpected happens?
 - **回答 Answer**
   - 中文：1）以人为本、救援第一；2）及时报告、加强沟通；3）依法依约、合理可能。
-  - English: 1) Put people first—protect lives and health before anything else; 2) Report fast, keep communication flowing, and escalate major cases to the authorities; 3) Handle everything by the law and the contract, only promising what’s realistic.
+  - English: First, put people first—protect lives and health before anything else. Then, report fast, keep communication flowing, and escalate major cases to the authorities. Finally, handle everything by the law and the contract, only promising what’s realistic.
 
 ### 2. 旅游者要求变更合同时，导游应如何应对？
 - **问题 Question**
@@ -415,7 +415,7 @@
   - English: If guests want to alter the contract mid-tour, what do you do?
 - **回答 Answer**
   - 中文：1）一般婉拒；2）特殊情况请示旅行社，获批后签书面变更；3）遇不可抗力需变更时，做好解释并反馈意见，按旅行社安排执行。
-  - English: 1) Politely decline under normal circumstances; 2) For special cases, ask the agency—if they approve, sign a written change; 3) If force majeure forces a change, explain it clearly, relay guest feedback, and follow the agency’s decision.
+  - English: First, politely decline under normal circumstances. Then, for special cases, ask the agency—if they approve, sign a written change. Finally, if force majeure forces a change, explain it clearly, relay guest feedback, and follow the agency’s decision.
 
 ### 3. 团餐改风味餐时如何处理？
 - **问题 Question**
@@ -423,7 +423,7 @@
   - English: When the group suddenly wants a specialty meal instead of the standard one, how do you handle it?
 - **回答 Answer**
   - 中文：1）若提前3小时提出，联系餐厅确认，能调换差价自付，不能则换餐厅；2）临近用餐或已到餐厅才提出，若有风味餐协助安排，若无则解释婉拒；3）实在满足不了又坚持，可建议换餐厅自点，自理费用且原餐费不退。
-  - English: 1) If they ask three hours ahead, check with the restaurant—if it’s possible, the guests cover the price difference; otherwise consider another venue; 2) If they ask last minute, help only if the restaurant can do it, otherwise explain and decline; 3) If they still insist, suggest another restaurant where they order and pay themselves, reminding them the original meal isn’t refundable.
+  - English: First, if they ask three hours ahead, check with the restaurant—if it’s possible, the guests cover the price difference; otherwise consider another venue. Then, if they ask last minute, help only if the restaurant can do it, otherwise explain and decline. Finally, if they still insist, suggest another restaurant where they order and pay themselves, reminding them the original meal isn’t refundable.
 
 ### 4. 旅客临时提出特殊饮食要求怎么办？
 - **问题 Question**
@@ -431,7 +431,7 @@
   - English: How do you respond to sudden special-diet requests?
 - **回答 Answer**
   - 中文：1）若在协议中写明，提前落实并兑现；2）临时提出的，立即与餐厅联系尽量满足，如确有困难要说明情况并协助其自理，费用自担。
-  - English: 1) If it’s written into the contract, arrange it ahead and deliver; 2) For last-minute asks, call the restaurant right away—try to make it happen, but if it’s not doable, explain why and help them sort it out on their own dime.
+  - English: First, if it’s written into the contract, arrange it ahead and deliver. Finally, for last-minute asks, call the restaurant right away—try to make it happen, but if it’s not doable, explain why and help them sort it out on their own dime.
 
 ### 5. 团队要求加菜时的处理办法？
 - **问题 Question**
@@ -439,7 +439,7 @@
   - English: Guests want extra dishes—now what?
 - **回答 Answer**
   - 中文：1）说明超出合同标准的费用需自付；2）协助与餐厅联系争取满足；3）无法满足时说明原因并致歉。
-  - English: 1) Tell them any upgrade costs are theirs; 2) Help coordinate with the restaurant; 3) If it can’t be done, be upfront about the reason and apologize.
+  - English: First, tell them any upgrade costs are theirs. Then, help coordinate with the restaurant. Finally, if it can’t be done, be upfront about the reason and apologize.
 
 ### 6. 个别游客要单独用餐时怎么办？
 - **问题 Question**
@@ -447,7 +447,7 @@
   - English: What if someone wants to dine alone instead of with the group?
 - **回答 Answer**
   - 中文：1）若因团内矛盾等，耐心劝说并请领队协助；2）坚持单独用餐的，可帮忙联系餐厅，但需说明费用自理且原餐不退；3）若因访友或自由活动不随团用餐，可同意但提醒餐费不退。
-  - English: 1) If it’s due to conflicts, explain patiently and ask the leader to help mediate; 2) If they insist, help set it up but remind them they pay for it and the group meal isn’t refundable; 3) If they’re skipping for personal errands, approve it but reiterate the no-refund point.
+  - English: First, if it’s due to conflicts, explain patiently and ask the leader to help mediate. Then, if they insist, help set it up but remind them they pay for it and the group meal isn’t refundable. Finally, if they’re skipping for personal errands, approve it but reiterate the no-refund point.
 
 ### 7. 发生集体食物中毒时怎么办？
 - **问题 Question**
@@ -455,7 +455,7 @@
   - English: If more than half the group shows food poisoning symptoms, what’s the play?
 - **回答 Answer**
   - 中文：1）立刻联系医疗机构、设法催吐并留样取证；2）送医救治并留存证据；3）向旅行社及相关主管部门和疾控机构报告详细情况。
-  - English: 1) Call medical help immediately, induce vomiting if advised, and keep food samples plus vomit specimens; 2) Rush them to hospital and preserve evidence; 3) Report everything to the agency, tourism authorities, and CDC.
+  - English: First, call medical help immediately, induce vomiting if advised, and keep food samples plus vomit specimens. Then, rush them to hospital and preserve evidence. Finally, report everything to the agency, tourism authorities, and CDC.
 
 ### 8. 游客要求调换房间时怎么办？
 - **问题 Question**
@@ -463,7 +463,7 @@
   - English: How do you manage room-change requests?
 - **回答 Answer**
   - 中文：1）若低于协议标准，应负责调换，必要时换酒店或提出补偿方案；2）若因设施或卫生问题，联系酒店处理或换房；3）若仅想换朝向或楼层且不涉及房价，有空房就协调，无法满足要耐心解释。
-  - English: 1) If the assigned room is below standard, arrange a change or even a new hotel and talk compensation if needed; 2) If it’s about cleanliness or facilities, get the hotel to fix it or swap rooms; 3) For same-category rooms with different views or floors, help if there’s availability, otherwise explain and apologize.
+  - English: First, if the assigned room is below standard, arrange a change or even a new hotel and talk compensation if needed. Then, if it’s about cleanliness or facilities, get the hotel to fix it or swap rooms. Finally, for same-category rooms with different views or floors, help if there’s availability, otherwise explain and apologize.
 
 ### 9. 游客要求住单间时的应对？
 - **问题 Question**
@@ -471,7 +471,7 @@
   - English: Someone now wants a single room—what do you do?
 - **回答 Answer**
   - 中文：1）若因室友矛盾或习惯不同，先请领队调解或团队内调整；2）调解无果且有空房，可安排但房费自理。
-  - English: 1) Try to mediate or reshuffle roommates; 2) If that fails and rooms are available, arrange a single but make it clear they cover the extra cost.
+  - English: First, try to mediate or reshuffle roommates. Finally, if that fails and rooms are available, arrange a single but make it clear they cover the extra cost.
 
 ### 10. 游客想延长住店时间时怎么办？
 - **问题 Question**
@@ -479,14 +479,14 @@
   - English: Guests ask to stay longer—how do you respond?
 - **回答 Answer**
   - 中文：1）先与饭店联系，有房就满足，但延长部分自理；2）如无空房，协助联系其他饭店，费用自理。
-  - English: 1) Check with the hotel—if rooms exist, let them extend and pay themselves; 2) If not, help them find another hotel, still at their own expense.
+  - English: First, check with the hotel—if rooms exist, let them extend and pay themselves. Finally, if not, help them find another hotel, still at their own expense.
 ### 11. 入住饭店突发火灾怎么办？
 - **问题 Question**
   - 中文：旅游团入住的饭店突然发生火灾，导游应该怎么做？
   - English: If the hotel suddenly catches fire, what’s your immediate response?
 - **回答 Answer**
   - 中文：1）立刻拨打119报警；2）迅速通知领队和全团游客；3）配合饭店按统一指挥引导游客经安全出口疏散；4）引导游客自救。
-  - English: 1) Call 119 right away; 2) Alert the leader and everyone else; 3) Work with hotel staff, follow their command, and evacuate via safe exits; 4) Coach guests on self-rescue.
+  - English: First, call 119 right away. Then, alert the leader and everyone else. Next, work with hotel staff, follow their command, and evacuate via safe exits. Finally, coach guests on self-rescue.
 
 ### 12. 因塞车漏接航班该如何补救？
 - **问题 Question**
@@ -494,7 +494,7 @@
   - English: Traffic jam makes you late for an airport pickup—how do you fix it?
 - **回答 Answer**
   - 中文：1）先诚恳致歉，争取谅解；2）如实说明原因；3）加倍努力补救，提供更加周到的后续服务。
-  - English: 1) Offer a heartfelt apology to calm everyone down; 2) Explain the situation honestly; 3) Go the extra mile afterward to regain trust.
+  - English: First, offer a heartfelt apology to calm everyone down. Then, explain the situation honestly. Finally, go the extra mile afterward to regain trust.
 
 ### 13. 接团地点没接到团队且无法联系时怎么办？
 - **问题 Question**
@@ -502,7 +502,7 @@
   - English: When the group doesn’t show and you can’t reach them, what steps do you take?
 - **回答 Answer**
   - 中文：1）迅速联系接待社和组团社请示；2）继续在约定地点等候并多方打听；3）必要时联系机场或车站广播寻找。
-  - English: 1) Notify both agencies for guidance; 2) Keep waiting at the agreed place while checking for updates; 3) Ask the airport or station to make an announcement if needed.
+  - English: First, notify both agencies for guidance. Then, keep waiting at the agreed place while checking for updates. Finally, ask the airport or station to make an announcement if needed.
 
 ### 14. 接站时没接到散客怎么办？
 - **问题 Question**
@@ -510,7 +510,7 @@
   - English: What about missing an individual arrival?
 - **回答 Answer**
   - 中文：1）核对航班（车次）信息；2）联系旅行社及散客本人；3）请机场（车站）广播寻找，必要时报告警方求助。
-  - English: 1) Reconfirm the travel details; 2) Call the agency and the traveler; 3) Ask for PA announcements and, if necessary, seek help from the police.
+  - English: First, reconfirm the travel details. Then, call the agency and the traveler. Finally, ask for PA announcements and, if necessary, seek help from the police.
 
 ### 15. 游客要求提高交通工具等级怎么办？
 - **问题 Question**
@@ -518,7 +518,7 @@
   - English: If someone wants to upgrade their transport class, what’s the process?
 - **回答 Answer**
   - 中文：1）说明团体票已按合同购买；2）有空位的情况下可协助升级；3）告知差价及相关费用自理。
-  - English: 1) Explain the group ticket status; 2) If higher-class seats exist, help arrange it; 3) Make it clear they pay the difference.
+  - English: First, explain the group ticket status. Then, if higher-class seats exist, help arrange it. Finally, make it clear they pay the difference.
 
 ### 16. 送机途中遇交通堵塞怎么办？
 - **问题 Question**
@@ -526,7 +526,7 @@
   - English: How do you react to a traffic jam on the way to the airport?
 - **回答 Answer**
   - 中文：1）时间紧迫时立即告知航空公司和旅行社协商应急方案；2）拥堵解除后提醒司机安全行驶，切勿冒险赶时间。
-  - English: 1) Alert the airline and agency right away to discuss options; 2) Once moving, tell the driver to prioritize safety instead of reckless speeding.
+  - English: First, alert the airline and agency right away to discuss options. Finally, once moving, tell the driver to prioritize safety instead of reckless speeding.
 
 ### 17. 旅游车故障无法前行时怎么办？
 - **问题 Question**
@@ -534,7 +534,7 @@
   - English: The coach breaks down mid-trip—what’s the drill?
 - **回答 Answer**
   - 中文：1）立即联系地接社尽快换车；2）如实告知游客并道歉，必要时争取补偿；3）在安全前提下安排游客就近活动；4）若在高速等危险区域，靠边后联系交警护送至安全地带。
-  - English: 1) Call the local agency for a replacement vehicle; 2) Tell the guests what happened and apologize, arranging compensation if approved; 3) If it’s safe, let them stretch nearby; 4) On highways or risky spots, pull over and get highway police to escort everyone to safety.
+  - English: First, call the local agency for a replacement vehicle. Then, tell the guests what happened and apologize, arranging compensation if approved. Next, if it’s safe, let them stretch nearby. Finally, on highways or risky spots, pull over and get highway police to escort everyone to safety.
 
 ### 18. 途中发生车祸且有人重伤怎么办？
 - **问题 Question**
@@ -542,7 +542,7 @@
   - English: If there’s an accident with serious injuries, what immediate actions do you take?
 - **回答 Answer**
   - 中文：1）立刻组织抢救并拨打120；2）保护现场及时报案；3）向旅行社汇报；4）安抚全团游客；5）处理善后并写报告。
-  - English: 1) Provide first aid and call 120; 2) Preserve the scene and report to police; 3) Notify the agency; 4) Calm everyone; 5) Handle follow-up tasks and file a written report.
+  - English: First, provide first aid and call 120. Then, preserve the scene and report to police. Next, notify the agency. After that, calm everyone. Finally, handle follow-up tasks and file a written report.
 
 ### 19. 核商日程时游客提出小改动怎么办？
 - **问题 Question**
@@ -550,7 +550,7 @@
   - English: During itinerary confirmation, how do you treat minor change requests?
 - **回答 Answer**
   - 中文：1）合理可行的尽量安排；2）新增付费项目要请示旅行社并签书面合同、不得影响计划内项目；3）确有困难无法满足时做好解释工作。
-  - English: 1) If it’s reasonable, try to fit it in; 2) For paid add-ons, get agency approval, sign paperwork, and ensure core items stay intact; 3) When it can’t be done, explain patiently.
+  - English: First, if it’s reasonable, try to fit it in. Then, for paid add-ons, get agency approval, sign paperwork, and ensure core items stay intact. Finally, when it can’t be done, explain patiently.
 
 ### 20. 游客提出大幅改动或涉及规格时怎么办？
 - **问题 Question**
@@ -558,14 +558,14 @@
   - English: What if they want major changes or higher specs?
 - **回答 Answer**
   - 中文：1）一般婉拒，说明应按合同执行；2）确有特殊情况且全团同意的，必须请示旅行社领导按指示办理。
-  - English: 1) Usually decline and remind them the contract rules; 2) If it’s truly special and the whole group agrees, escalate to agency management and follow their call.
+  - English: First, usually decline and remind them the contract rules. Finally, if it’s truly special and the whole group agrees, escalate to agency management and follow their call.
 ### 21. 行程单不一致时怎么办？
 - **问题 Question**
   - 中文：领队（或全陪）手中的旅行计划与地陪的接待计划有出入时，地陪应该怎么办？
   - English: When the escort’s plan clashes with your local plan, how do you resolve it?
 - **回答 Answer**
   - 中文：1）立刻向接待社报告查明原因；2）若责任在接待方要说明并致歉，及时调整；3）若不在接待方，也不指责，必要时请领队向游客解释。
-  - English: 1) Report it to the host agency and figure out why; 2) If it’s your side’s fault, own it and adjust; 3) If not, avoid blaming and let the escort brief the guests.
+  - English: First, report it to the host agency and figure out why. Then, if it’s your side’s fault, own it and adjust. Finally, if not, avoid blaming and let the escort brief the guests.
 
 ### 22. 自由活动时游客要单独购物怎么办？
 - **问题 Question**
@@ -573,7 +573,7 @@
   - English: Someone wants to go shopping alone during free time—what support do you give?
 - **回答 Answer**
   - 中文：1）尽量协助，如推荐靠谱商家、联系交通、写中文便条等；2）提醒注意安全和财物；3）让其带上饭店卡片并提供你的联系方式备用。
-  - English: 1) Help them with reputable shops, transport, or written notes; 2) Remind them about safety and belongings; 3) Make sure they carry the hotel card and your contact info.
+  - English: First, help them with reputable shops, transport, or written notes. Then, remind them about safety and belongings. Finally, make sure they carry the hotel card and your contact info.
 
 ### 23. 游客想买古玩时怎么办？
 - **问题 Question**
@@ -581,7 +581,7 @@
   - English: What if guests want to buy antiques?
 - **回答 Answer**
   - 中文：1）推荐正规古玩商店并提醒保留发票及火漆印；2）劝阻在地摊上购买并告知相关规定；3）怀疑有人走私文物要及时报告。
-  - English: 1) Take them to legitimate dealers and remind them to keep receipts and seals; 2) Discourage street-stall purchases and explain customs rules; 3) Report any suspected smuggling immediately.
+  - English: First, take them to legitimate dealers and remind them to keep receipts and seals. Then, discourage street-stall purchases and explain customs rules. Finally, report any suspected smuggling immediately.
 
 ### 24. 遭遇小贩强拉强卖怎么办？
 - **问题 Question**
@@ -589,7 +589,7 @@
   - English: How do you handle aggressive hawkers?
 - **回答 Answer**
   - 中文：1）事先提醒游客别上当；2）若被纠缠要上前阻拦；3）必要时报告相关部门；4）随时警示游客注意安全。
-  - English: 1) Warn the group ahead of time; 2) Step in when someone gets hassled; 3) Report persistent offenders; 4) Keep reinforcing safety awareness.
+  - English: First, warn the group ahead of time. Then, step in when someone gets hassled. Next, report persistent offenders. Finally, keep reinforcing safety awareness.
 
 ### 25. 团队想调换计划内文娱项目怎么办？
 - **问题 Question**
@@ -597,7 +597,7 @@
   - English: If they want to swap a scheduled show, what do you do?
 - **回答 Answer**
   - 中文：1）联系接待社计调尽量调换，但没谈妥前不要许诺；2）若确实无法更换，要说明票已订好不能退换，请其体谅。
-  - English: 1) Talk to dispatch to see if a swap is possible, but don’t promise before it’s confirmed; 2) If it’s impossible, explain the tickets are fixed and ask for understanding.
+  - English: First, talk to dispatch to see if a swap is possible, but don’t promise before it’s confirmed. Finally, if it’s impossible, explain the tickets are fixed and ask for understanding.
 
 ### 26. 游客想参加计划外文娱活动怎么办？
 - **问题 Question**
@@ -605,7 +605,7 @@
   - English: How about unscheduled entertainment requests?
 - **回答 Answer**
   - 中文：1）力所能及地帮忙订票、叫车，费用自理；2）履行安全提醒，让其带上饭店名片并记住导游联系方式；3）一般无需陪同参加。
-  - English: 1) Help with tickets or transport while making it clear they pay; 2) Give safety tips and ensure they have the hotel card plus your number; 3) You typically don’t accompany them.
+  - English: First, help with tickets or transport while making it clear they pay. Then, give safety tips and ensure they have the hotel card plus your number. Finally, you typically don’t accompany them.
 
 ### 27. 游客不想重复游览某景点时怎么办？
 - **问题 Question**
@@ -613,7 +613,7 @@
   - English: If someone skips a site because they’ve seen it, how do you manage that?
 - **回答 Answer**
   - 中文：1）不影响团队的情况下可同意并说明不随团期间费用不退，新增费用自理；2）告诉其用餐时间地点方便归队；3）提醒安全，带饭店名片并互留联系方式；4）约定好归队时间地点，可写便条。
-  - English: 1) If it doesn’t disrupt the group, approve it but remind them there’s no refund and extra costs are theirs; 2) Tell them when and where meals happen; 3) Emphasize safety and exchange contacts; 4) Set a clear meetup time and place.
+  - English: First, if it doesn’t disrupt the group, approve it but remind them there’s no refund and extra costs are theirs. Then, tell them when and where meals happen. Next, emphasize safety and exchange contacts. Finally, set a clear meetup time and place.
 
 ### 28. 游客想在饭店休息不随团时怎么办？
 - **问题 Question**
@@ -621,7 +621,7 @@
   - English: What if a guest stays back at the hotel?
 - **回答 Answer**
   - 中文：1）了解原因并尽量劝其随团；2）如无特殊情况仍不参团，说明费用不退；3）若因身体不适，应通知餐厅安排餐食、可送餐并请客房照料，游览后前去探望。
-  - English: 1) Ask why and encourage them to join; 2) If they still opt out without special reasons, reiterate the no-refund policy; 3) If they’re unwell, arrange meals, inform room service to check in, and visit them later.
+  - English: First, ask why and encourage them to join. Then, if they still opt out without special reasons, reiterate the no-refund policy. Finally, if they’re unwell, arrange meals, inform room service to check in, and visit them later.
 
 ### 29. 游客因个人诉求未满足想提前离团怎么办？
 - **问题 Question**
@@ -629,7 +629,7 @@
   - English: How do you respond when someone wants to quit the tour early?
 - **回答 Answer**
   - 中文：1）配合领队劝其留下；2）若接待社有责任，尽量补救；3）若是无理要求要耐心解释；4）劝说无效可同意，但剩余费用不退；5）外籍游客离华需在领导指示下协助改签、办离团手续，费用自理。
-  - English: 1) Support the leader in persuading them; 2) If the agency is at fault, try to make amends; 3) For unreasonable demands, explain patiently; 4) If they still insist, allow it but remind them no refunds; 5) For foreign guests leaving China, help with flights and paperwork per management instructions, all at their cost.
+  - English: First, support the leader in persuading them. Then, if the agency is at fault, try to make amends. Next, for unreasonable demands, explain patiently. After that, if they still insist, allow it but remind them no refunds. Finally, for foreign guests leaving China, help with flights and paperwork per management instructions, all at their cost.
 
 ### 30. 游客因伤病退团需延留时怎么办？
 - **问题 Question**
@@ -637,14 +637,14 @@
   - English: If someone is hospitalized and must leave the tour but stay longer locally, what do you do?
 - **回答 Answer**
   - 中文：1）协助办理退团手续，按协议约定退费或不退；2）前往探视并协助解决患者或陪同家属的生活困难；3）出院后如需重订航班或车票，可提供帮助，费用自理。
-  - English: 1) Help with paperwork and handle refunds per the contract; 2) Visit them and support any daily-life needs; 3) When they recover, assist with rebooking transport if needed—again at their expense.
+  - English: First, help with paperwork and handle refunds per the contract. Then, visit them and support any daily-life needs. Finally, when they recover, assist with rebooking transport if needed—again at their expense.
 ### 31. 旅客投诉时该如何处理？
 - **问题 Question**
   - 中文：当旅游者因自认权益受侵害而投诉时，导游应该如何处理？
   - English: How do you handle a guest complaint about their rights being violated?
 - **回答 Answer**
   - 中文：1）耐心倾听并记录；2）表示同情理解但不盲目承诺；3）调查后尽快回复；4）重要或棘手问题要及时上报旅行社。
-  - English: 1) Listen carefully and take notes; 2) Show empathy without making promises you can’t keep; 3) Investigate and respond quickly; 4) Escalate serious cases to the agency.
+  - English: First, listen carefully and take notes. Then, show empathy without making promises you can’t keep. Next, investigate and respond quickly. Finally, escalate serious cases to the agency.
 
 ### 32. 团队提前离开某地时怎么办？
 - **问题 Question**
@@ -652,7 +652,7 @@
   - English: If the group leaves a city earlier than planned, what adjustments do you make?
 - **回答 Answer**
   - 中文：1）调整日程，尽量完成计划内项目；2）如难以全部完成，优先安排最具代表性的景点；3）做好游客沟通，必要时补偿，费用问题上报旅行社；4）通知相关人员办理退房、退餐、退车；5）全陪需告知组团社并通知下一站。
-  - English: 1) Rework the schedule to cover as much as possible; 2) If something must go, focus on signature sites; 3) Communicate openly, apologize, and arrange compensation per agency guidance; 4) Let hotel, restaurant, and transport know; 5) Escorts should inform the home office and the next stop.
+  - English: First, rework the schedule to cover as much as possible. Then, if something must go, focus on signature sites. Next, communicate openly, apologize, and arrange compensation per agency guidance. After that, let hotel, restaurant, and transport know. Finally, escorts should inform the home office and the next stop.
 
 ### 33. 团队提前抵达或推迟离开导致逗留变长怎么办？
 - **问题 Question**
@@ -660,7 +660,7 @@
   - English: When the stay unexpectedly extends, what’s your move?
 - **回答 Answer**
   - 中文：1）联系计调重新落实用房、用餐、用车；2）征求领队和全陪意见后调整活动，可延长重点景点时间或在许可下增加项目；3）提醒接待人员通知下一站；4）与领队、全陪协同做好游客解释。
-  - English: 1) Coordinate lodging, meals, and transport again; 2) After consulting the leaders, extend highlight visits or add approved items; 3) Let the next stop know; 4) Work together to explain things to the group.
+  - English: First, coordinate lodging, meals, and transport again. Then, after consulting the leaders, extend highlight visits or add approved items. Next, let the next stop know. Finally, work together to explain things to the group.
 
 ### 34. 因航空原因无法按时离开时怎么办？
 - **问题 Question**
@@ -668,7 +668,7 @@
   - English: If flights are delayed because of the airline, how do you guide the group?
 - **回答 Answer**
   - 中文：1）向机场工作人员了解情况并及时转告游客；2）立刻通报组团社和地接社；3）在游客明确集合点的前提下可允许候机楼内自由活动，但必须提醒关注航班信息。
-  - English: 1) Get accurate info from airline staff and update the group; 2) Inform both agencies; 3) Let guests move around the terminal as long as they know the meeting spot and keep an ear on announcements.
+  - English: First, get accurate info from airline staff and update the group. Then, inform both agencies. Finally, let guests move around the terminal as long as they know the meeting spot and keep an ear on announcements.
 
 ### 35. 客观原因导致计划部分无法实施时怎么办？
 - **问题 Question**
@@ -676,7 +676,7 @@
   - English: When an activity can’t happen due to external factors, what do you do?
 - **回答 Answer**
   - 中文：1）如实说明，争取谅解；2）提出替换方案与游客协商；3）用精彩讲解和热情服务弥补；4）按规定给予补偿，必要时请领导出面致歉。
-  - English: 1) Be transparent and seek understanding; 2) Offer alternative options; 3) Raise morale with great storytelling and service; 4) Compensate per policy and have management step in if needed.
+  - English: First, be transparent and seek understanding. Then, offer alternative options. Next, raise morale with great storytelling and service. Finally, compensate per policy and have management step in if needed.
 
 ### 36. 外国游客丢护照时怎么办？
 - **问题 Question**
@@ -684,7 +684,7 @@
   - English: What steps help a foreign guest who lost their passport?
 - **回答 Answer**
   - 中文：1）安抚游客并了解情况，协助寻找；2）确认丢失后，协助在遗失地接待社开具证明；3）陪同去公安局报失获取证明；4）引导其去本国驻华使领馆补办护照；5）再到出入境管理部门补办签证。
-  - English: 1) Calm them and retrace steps; 2) If it’s gone, get a loss certificate from the local agency; 3) Take them to the PSB to file a report; 4) Help them visit their embassy/consulate for a new passport; 5) Assist with new visa formalities.
+  - English: First, calm them and retrace steps. Then, if it’s gone, get a loss certificate from the local agency. Next, take them to the PSB to file a report. After that, help them visit their embassy/consulate for a new passport. Finally, assist with new visa formalities.
 
 ### 37. 马来西亚华侨丢护照时怎么办？
 - **问题 Question**
@@ -692,7 +692,7 @@
   - English: How is it different for an overseas Chinese from Malaysia?
 - **回答 Answer**
   - 中文：1）同样安抚并协助寻找；2）确认丢失后请接待社开证明；3）携证明和照片到公安机关出入境管理处报失并申请新护照；4）拿到新护照后去马来西亚驻华使领馆办理入境签证。
-  - English: 1) Comfort and help search; 2) Get a loss certificate; 3) Go with them to the PSB exit-entry office for a new travel document; 4) Once issued, take it to the Malaysian embassy for entry visas.
+  - English: First, comfort and help search. Then, get a loss certificate. Next, go with them to the PSB exit-entry office for a new travel document. Finally, once issued, take it to the Malaysian embassy for entry visas.
 
 ### 38. 国内游客遭盗窃怎么办？
 - **问题 Question**
@@ -700,7 +700,7 @@
   - English: If a domestic traveler’s belongings get stolen, what’s next?
 - **回答 Answer**
   - 中文：1）立即报警并通知保安及保险公司；2）向接待社领导汇报；3）若离开前仍未破案，根据时间地点责任方等情况做好善后。
-  - English: 1) Report it to the police, security, and insurer right away; 2) Inform agency leaders; 3) If unresolved before departure, manage aftercare based on when and where it happened.
+  - English: First, report it to the police, security, and insurer right away. Then, inform agency leaders. Finally, if unresolved before departure, manage aftercare based on when and where it happened.
 
 ### 39. 境外游客途中行李丢失怎么办？
 - **问题 Question**
@@ -708,7 +708,7 @@
   - English: How do you help when inbound guests lose luggage en route?
 - **回答 Answer**
   - 中文：1）带失主到机场失物登记处报失；2）把后续行程告知承运人好及时送回；3）行程中保持跟进联系；4）协助购置必需品并提醒留好发票，帮忙处理索赔。
-  - English: 1) File a claim at the airport lost-luggage desk; 2) Give the carrier the guest’s itinerary for delivery; 3) Stay in touch until it’s found; 4) Help them buy essentials, keep receipts, and file for compensation.
+  - English: First, file a claim at the airport lost-luggage desk. Then, give the carrier the guest’s itinerary for delivery. Next, stay in touch until it’s found. Finally, help them buy essentials, keep receipts, and file for compensation.
 
 ### 40. 入住饭店后发现行李丢失怎么办？
 - **问题 Question**
@@ -716,14 +716,14 @@
   - English: If luggage goes missing inside the hotel, what’s your approach?
 - **回答 Answer**
   - 中文：1）遵循“由近及远”原则逐环节寻找：团内、饭店内、本地、上一站；2）关心失主生活困难；3）找回及时归还；4）确实丢失则协助按规定索赔；5）写书面报告。
-  - English: 1) Search step by step—within the group, the hotel, the city, and even the previous stop; 2) Support the guest with day-to-day needs; 3) Return items once found; 4) If lost for good, help them claim compensation; 5) Document it formally.
+  - English: First, search step by step—within the group, the hotel, the city, and even the previous stop. Then, support the guest with day-to-day needs. Next, return items once found. After that, if lost for good, help them claim compensation. Finally, document it formally.
 ### 41. 游客走失时怎么办？
 - **问题 Question**
   - 中文：游览时发现少了一名游客且亲属也不知去向，导游应该如何处理？
   - English: If someone goes missing during sightseeing, how do you respond?
 - **回答 Answer**
   - 中文：1）询问其他游客并安排亲友或代表协同寻找，与景区和住宿方联系获取线索，地陪继续带团；2）立即向旅行社报告并通知失者家属；3）失踪24小时仍无消息要报警；4）老幼残障等特殊人群失踪要马上报警；5）境外走失需向当地警方及中国使领馆报告并按指导处理。
-  - English: 1) Gather intel from the group, assign companions to search, and check with site or hotel staff while the tour continues; 2) Report to the agency and inform family; 3) If 24 hours pass, file a police report; 4) For seniors, minors, or disabled guests, call police immediately; 5) Overseas, alert local authorities plus the nearest Chinese mission for help.
+  - English: First, gather intel from the group, assign companions to search, and check with site or hotel staff while the tour continues. Then, report to the agency and inform family. Next, if 24 hours pass, file a police report. After that, for seniors, minors, or disabled guests, call police immediately. Finally, overseas, alert local authorities plus the nearest Chinese mission for help.
 
 ### 42. 旅途中游客生病时怎么办？
 - **问题 Question**
@@ -731,7 +731,7 @@
   - English: What’s the right way to help a sick traveler?
 - **回答 Answer**
   - 中文：1）了解病情并劝其及时就医休息；2）需就医时陪同看诊、按规定报告并协助保险理赔；3）严禁擅自给药。
-  - English: 1) Check how they’re doing and encourage medical help plus rest; 2) Go with them to the hospital, file required reports, and assist with insurance claims; 3) Never administer medicine on your own.
+  - English: First, check how they’re doing and encourage medical help plus rest. Then, go with them to the hospital, file required reports, and assist with insurance claims. Finally, never administer medicine on your own.
 
 ### 43. 室外游览突遇地震时怎么办？
 - **问题 Question**
@@ -739,7 +739,7 @@
   - English: During an outdoor tour, if an earthquake hits, what instructions do you give?
 - **回答 Answer**
   - 中文：1）不要乱跑乱挤，要远离人群密集处；2）远离高楼、窄巷和高压线；3）保护好头部防砸；4）引导大家集中到空旷开阔地。
-  - English: 1) Avoid stampedes—spread out; 2) Stay clear of tall buildings, alleys, and power lines; 3) Shield your head; 4) Lead everyone to open ground.
+  - English: First, avoid stampedes—spread out. Then, stay clear of tall buildings, alleys, and power lines. Next, shield your head. Finally, lead everyone to open ground.
 
 ### 44. 山区遇泥石流时怎么办？
 - **问题 Question**
@@ -747,7 +747,7 @@
   - English: If a mudslide erupts, how do you get people to safety?
 - **回答 Answer**
   - 中文：1）迅速向山坡坚固高地或石坡撤离，丢下重物；2）不要与泥石流同向奔跑，要横向逃离；3）到安全地带后集中等待救援。
-  - English: 1) Move fast to higher, solid ground and ditch heavy items; 2) Run perpendicular to the flow, not with it; 3) Once safe, regroup and wait for rescue.
+  - English: First, move fast to higher, solid ground and ditch heavy items. Then, run perpendicular to the flow, not with it. Finally, once safe, regroup and wait for rescue.
 
 ### 45. 遇到晕车晕船时怎么办？
 - **问题 Question**
@@ -755,7 +755,7 @@
   - English: How do you care for someone with motion sickness?
 - **回答 Answer**
   - 中文：1）关心状况并调整至合适座位；2）在太阳穴或风池穴涂抹风油精；3）提醒束紧腰带减轻震荡；4）备好食品袋和纸巾及时清理；5）症状严重时联系乘务人员。
-  - English: 1) Move them to a better seat; 2) Apply medicated oils to pressure points; 3) Suggest tightening the belt for stability; 4) Have bags and tissues ready; 5) Call crew if it worsens.
+  - English: First, move them to a better seat. Then, apply medicated oils to pressure points. Next, suggest tightening the belt for stability. After that, have bags and tissues ready. Finally, call crew if it worsens.
 
 ### 46. 高温中暑时怎么办？
 - **问题 Question**
@@ -763,7 +763,7 @@
   - English: How do you treat a heatstroke case on tour?
 - **回答 Answer**
   - 中文：1）转移到通风阴凉处平躺并松解衣物；2）用冷毛巾、酒精擦拭或扇风降温；3）失去意识可用刺激气味或掐人中促醒，清醒后喂些清凉饮料或淡盐水；4）缓解后让其静卧休息；5）重症立即联系医院。
-  - English: 1) Move them to a cool airy spot, loosen clothes, and adjust posture; 2) Cool them with wet towels, alcohol rubs, or fanning; 3) If unconscious, use smelling salts or acupressure and offer cool drinks when awake; 4) Keep them resting afterward; 5) Call medical services if it’s severe.
+  - English: First, move them to a cool airy spot, loosen clothes, and adjust posture. Then, cool them with wet towels, alcohol rubs, or fanning. Next, if unconscious, use smelling salts or acupressure and offer cool drinks when awake. After that, keep them resting afterward. Finally, call medical services if it’s severe.
 
 ### 47. 老年游客突发心脏病怎么办？
 - **问题 Question**
@@ -771,7 +771,7 @@
   - English: A senior guest has a sudden heart attack—what’s your immediate action?
 - **回答 Answer**
   - 中文：1）不要急着搬动，先就地平躺头稍高；2）请同行亲友或领队找出备用药并让其服用；3）同步联系医院寻求专业救助。
-  - English: 1) Don’t rush them around—let them lie flat with head slightly raised; 2) Have companions find and administer their medication; 3) Call for medical help immediately.
+  - English: First, don’t rush them around—let them lie flat with head slightly raised. Then, have companions find and administer their medication. Finally, call for medical help immediately.
 
 ### 48. 游客跌倒骨折时的初步救护？
 - **问题 Question**
@@ -779,7 +779,7 @@
   - English: If someone falls and breaks a bone, how do you give first aid?
 - **回答 Answer**
   - 中文：1）先止血，可用手压、加压包扎或止血带；2）轻柔包扎，松紧适度结口避开伤处；3）用夹板或临时材料固定伤肢，避免随意移动。
-  - English: 1) Stop bleeding via direct pressure, bandaging, or a tourniquet; 2) Bandage gently without pressing on the wound; 3) Immobilize with a splint made from whatever’s available.
+  - English: First, stop bleeding via direct pressure, bandaging, or a tourniquet. Then, bandage gently without pressing on the wound. Finally, immobilize with a splint made from whatever’s available.
 
 ### 49. 遇到游客不文明行为怎么办？
 - **问题 Question**
@@ -787,7 +787,7 @@
   - English: How do you react to inappropriate behavior?
 - **回答 Answer**
   - 中文：1）无心之失要及时提醒、必要时陪同致歉；2）若违法或严重影响他人且不听劝阻，可按旅行社指示解除旅游合同；3）违法行为不止且后果严重时，要向执法机关报告依法处理。
-  - English: 1) For accidental missteps, remind them and help apologize; 2) For serious misconduct, warn them and, if needed, terminate their contract per agency orders; 3) Report criminal acts to authorities if they refuse to stop.
+  - English: First, for accidental missteps, remind them and help apologize. Then, for serious misconduct, warn them and, if needed, terminate their contract per agency orders. Finally, report criminal acts to authorities if they refuse to stop.
 
 ### 50. 旅游突发事件后的必要处置措施是什么？
 - **问题 Question**
@@ -795,7 +795,7 @@
   - English: After a tourism emergency, what must you do right away?
 - **回答 Answer**
   - 中文：1）向单位负责人报告，紧急或重大事件可直接向所在地及相关主管部门报告；2）救助或协助救助受困游客；3）按旅行社和主管部门要求，调整或中止行程、停止进入风险区、必要时撤离。
-  - English: 1) Report to your company and, for major or urgent cases, notify local authorities and regulators; 2) Rescue or help rescue affected guests; 3) Follow instructions to adjust, pause, or evacuate the tour from danger zones.
+  - English: First, report to your company and, for major or urgent cases, notify local authorities and regulators. Then, rescue or help rescue affected guests. Finally, follow instructions to adjust, pause, or evacuate the tour from danger zones.
 ## 综合知识 130 题
 ### 1. “四条诗路”是哪四条？
 - **问题 Question**
@@ -803,7 +803,7 @@
   - English: Which four “poetry trails” make up Zhejiang’s cultural belt?
 - **回答 Answer**
   - 中文：①浙东唐诗之路；②钱塘江诗路；③瓯江山水诗路；④大运河诗路。
-  - English: 1) The Eastern Zhejiang Tang Poetry Road; 2) The Qiantang River Poetry Route; 3) The Ou River Landscape Poetry Route; 4) The Grand Canal Poetry Route.
+  - English: First, the Eastern Zhejiang Tang Poetry Road. Then, the Qiantang River Poetry Route. Next, the Ou River Landscape Poetry Route. Finally, the Grand Canal Poetry Route.
 
 ### 2. “五养”大花园指什么？
 - **问题 Question**
@@ -843,7 +843,7 @@
   - English: What are the Hangzhou Asian Games mascots and what do they stand for?
 - **回答 Answer**
   - 中文：1）吉祥物叫“江南忆”，包括琮琮、莲莲、宸宸；2）琮琮代表良渚古城遗址，名字来自玉琮；3）莲莲代表西湖，名字源于接天莲叶；4）宸宸代表中国大运河，名字源自拱宸桥。
-  - English: 1) The trio is named “Memories of Jiangnan,” featuring Congcong, Lianlian, and Chenchen; 2) Congcong stands for the Liangzhu Ancient City and is named after the jade cong; 3) Lianlian stands for West Lake’s endless lotus leaves; 4) Chenchen represents the Grand Canal, inspired by Hangzhou’s Gongchen Bridge.
+  - English: First, the trio is named “Memories of Jiangnan,” featuring Congcong, Lianlian, and Chenchen. Then, congcong stands for the Liangzhu Ancient City and is named after the jade cong. Next, lianlian stands for West Lake’s endless lotus leaves. Finally, chenchen represents the Grand Canal, inspired by Hangzhou’s Gongchen Bridge.
 
 ### 7. 浙江有哪两个“世界最佳旅游乡村”？
 - **问题 Question**
@@ -1443,7 +1443,7 @@
   - English: Identify the poems and authors for the lines about West Lake mentioned here.
 - **回答 Answer**
   - 中文：①白居易《春题湖上》；②林逋《山园小梅》；③苏轼《饮湖上初晴后雨》。
-  - English: 1) Bai Juyi’s “Spring by the Lake”; 2) Lin Bu’s “Little Plum Garden”; 3) Su Shi’s “Drinking on the Lake after Rain.”
+  - English: First, bai Juyi’s “Spring by the Lake”. Then, lin Bu’s “Little Plum Garden”. Finally, su Shi’s “Drinking on the Lake after Rain.”.
 
 ### 83. 另一组名句出自哪里？
 - **问题 Question**
@@ -1451,7 +1451,7 @@
   - English: From which poems come the quoted lotus, skyline, and birdsong lines?
 - **回答 Answer**
   - 中文：①杨万里《晓出净慈寺送林子方》；②林升《题临安邸》；③王籍《入若耶溪》。
-  - English: 1) Yang Wanli’s “Leaving Jingci Temple at Dawn”; 2) Lin Sheng’s “Written on the City of Lin’an”; 3) Wang Ji’s “Entering the Ruoye Creek.”
+  - English: First, yang Wanli’s “Leaving Jingci Temple at Dawn”. Then, lin Sheng’s “Written on the City of Lin’an”. Finally, wang Ji’s “Entering the Ruoye Creek.”.
 
 ### 84. “禅院五山”是哪几座？
 - **问题 Question**
