@@ -184,7 +184,7 @@
 
 ### 46. 玉琮、玉钺、玉璧构成围绕神权、王权、军权的良渚玉礼器体系。
 - 中文：玉琮、玉钺、玉璧构成围绕神权、王权、军权的良渚玉礼器体系。
-- English: Liangzhu’s iconic jade cong, yue, and bi formed a ritual set symbolising divine, royal, and military authority.
+- English: Jade cong, jade yue-axes, and jade bi-discs together form the Liangzhu ritual jade system, which symbolized divine authority, royal power, and military power.
 
 ### 47. “神人兽面纹”是良渚人共同信仰的标志，被视为他们的神徽。
 - 中文：“神人兽面纹”是良渚人共同信仰的标志，被视为他们的神徽。
@@ -196,8 +196,8 @@
 
 ### 49. 苏东坡一生两度来到杭州，留下了数百首描写西湖的诗词。
 - 中文：苏东坡一生两度来到杭州，留下了数百首描写西湖的诗词。
-- English: Su Dongpo served in Hangzhou twice and penned hundreds of brilliant pieces about West Lake during those years.
+- English: Su Dongpo visited Hangzhou twice in his life, composing hundreds of poems that beautifully portray the scenery of West Lake.
 
 ### 50. 宋韵是杭州的文化标识，凝结了城市独特的生活韵味。
 - 中文：宋韵是杭州的文化标识，凝结了城市独特的生活韵味。
-- English: The “Song Dynasty vibe” is Hangzhou’s cultural fingerprint—it captures the city’s refined lifestyle and lingering charm.
+- English: Song-style culture is a defining cultural symbol of Hangzhou, embodying the city’s unique charm and way of life.

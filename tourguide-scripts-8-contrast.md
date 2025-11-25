@@ -1,32 +1,30 @@
 # Tour Guide Scripts · 8-Minute Spoken Versions
 
-以下 8 篇导览词整合自原始资料，保留中文内容，并提供口语化英语版本，便于现场讲解时快速对照。每篇脚本的英语部分长度与原稿相当，可支持约 8 分钟的口述。
+以下 8 篇导览词整合自原始资料，保留中文内容，并提供更口语化的英文版本，可直接用于现场面试或口试演练。每篇英文稿长度约 6~8 分钟的语速，覆盖背景介绍、行程串讲与临场提醒。
 
 ## Script 0 · 杭州概况
 
-### English Spoken Script (~470 words)
+### English Spoken Script (~650 words)
 
-Good morning, everyone! Welcome to Hangzhou, and thanks for letting me spend the day with you. I hope these next few hours leave you with the happiest memories of our “paradise city.”
+Good morning, everyone. Welcome to Hangzhou and thanks for choosing me as your guide. People in China love to say, “Heaven has paradise, and on earth we have Suzhou and Hangzhou.” It’s a bold promise, but I’ll spend the next few minutes showing you why locals say it with a smile.
 
-Back home we often quote the line, “In heaven there is paradise; on earth there are Suzhou and Hangzhou.” It sounds poetic, but when you stroll around here you’ll see why people have been saying that for centuries.
+Let’s start with the map. Hangzhou rests on China’s southeast coast at the lower reach of the Qiantang River and right at the southern end of the 2,300‑year‑old Grand Canal. It covers roughly 16,850 square kilometres and is home to more than 12 million residents, making it the political, economic, cultural, and transportation hub of Zhejiang Province. Even the name tells a story: in ancient Chinese, “hang” meant boat and “zhou” meant city, so the word literally described a city you could sail into.
 
-Hangzhou lies on China’s southeast coast in Zhejiang Province, right where the Qiantang River meets the southern end of the Grand Canal. With an area of roughly 16,850 square kilometres and a population of nearly 12.5 million, it’s the political, economic, cultural, and transportation centre of the province.
+History here runs deep. Archaeologists have traced human activities back over 8,000 years, and in the 13th century Marco Polo called Hangzhou the most beautiful city in the world. Since then locals have worked hard to live up to that compliment. Today we still blend ancient spirit and modern drive: four high-speed rail stations and Xiaoshan International Airport link us to the world, yet you can still find tea farmers hand-picking Longjing leaves on the hillside.
 
-Even the city’s name has a story. In ancient Chinese, “Hang” referred to a boat and “Zhou” meant a city, so Hangzhou literally describes a city that you can sail right into.
+The weather keeps things interesting. Hangzhou has a subtropical monsoon climate—warm, humid, and very seasonal. Spring brings gentle rain that makes willow trees glow green. Summer is lush and lively, perfect for evening cruises. Autumn feels crisp and poetic; it’s my favourite time for cycling around West Lake. Winter is misty, sometimes snowy, and the stories of Lingering Snow on the Broken Bridge come alive. No matter when you visit, the atmosphere is never dull.
 
-That “boat-friendly” idea is still around today. The city runs four major railway stations, an extensive high-speed rail network, and the busy Xiaoshan International Airport, which connects us to Bangkok, Singapore, Doha, Amsterdam, and many other destinations.
+We’re also famous for heritage crafts. Keep your eyes open for Hangzhou silk that feels like water, Longjing green tea, Zhang Xiaoquan scissors made with surgical precision, and the elegant fans from Wang Xing Ji. They’re light in your suitcase but full of stories to share when you go home.
 
-People have lived on this soil for roughly eight thousand years, so history and culture are woven into daily life. In the 13th century, Marco Polo called Hangzhou the most beautiful and splendid city in the world, and the city has worked hard ever since to live up to that compliment.
+Culturally, Hangzhou is nicknamed the “capital of love.” Classic romances like “The Butterfly Lovers” and “The Legend of the White Snake” were set right here. But beyond romance, Hangzhou projects a modern, innovative, high-quality lifestyle. The city hosts e-commerce giants, high-tech startups, and smart-city pilots while keeping room for slow tea and poetry.
 
-The climate is subtropical monsoon: warm, humid, and full of variety. Spring gives us soft rains, summer is steamy and lush, autumn is clear and crisp, and winter can be chilly and damp. Every season paints the city with a different palette, which means there’s never a bad time to visit.
+Our highlight reel is long. Of course we’ll talk about West Lake—the UNESCO-listed symbol of the city—but there’s also Lingyin Temple, Xixi Wetland, the bustling Qinghefang Old Street, and the brand-new museums showcasing digital art. Hangzhou cuisine keeps people happy too: taste West Lake Vinegar Fish, Dragon Well Shrimp, and the famous Dongpo Pork created by the great poet-governor Su Dongpo.
 
-We’re also famous for specialty products. Keep an eye out for Hangzhou silk, Longjing green tea, Zhang Xiaoquan scissors, and Wang Xing Ji fans. They make wonderful gifts—or souvenirs for yourself.
+During our stay, I’ll balance storytelling with practical tips. We’ll float across the lake by boat, wander through hidden alleys, and sip tea while learning about local customs. If you need special assistance—mobility help, diet needs, extra photo stops—please tell me early so I can arrange it. My job is to keep schedules smooth, but also to keep the journey personal.
 
-Hangzhou is known as the capital of love because so many classic romances were set here, including “The Butterfly Lovers” and “The Legend of the White Snake.” Beyond romance, people describe the city as smart, innovative, and full of life. It’s consistently ranked as one of China’s best places to live, and locals often say they lead a poetic lifestyle.
+I hope my introduction has given you a calm and pleasant first impression of Hangzhou. It is a city of soft landscapes, rich culture, and simple everyday beauty. Thank you for your time.
 
-Landmarks are everywhere you turn: West Lake, Lingyin Temple, Xixi Wetland, Leifeng Pagoda, and countless hidden gems in the old neighbourhoods. Today we’ll sample a few highlights, but trust me—you’ll want to come back and explore more.
-
-So take a deep breath, relax into the pace of the day, and let Hangzhou charm you. If you need anything, just let me know. Enjoy the tour, my friends!
+**Prompt Words:** paradise intro · 16,850 km² city & boat-name · 8,000-year history + 13th-c Marco Polo · four monsoon seasons · silk/Longjing/scissors/fans · love legends & innovation · West Lake/Lingyin/Xixi/Qinghefang · West Lake Vinegar Fish/Dragon Well Shrimp/Dongpo Pork · service reminder · calm ending
 
 ### 中文原稿
 
@@ -47,37 +45,27 @@ So take a deep breath, relax into the pace of the day, and let Hangzhou charm yo
 
 ## Script 1 · 浙江省情
 
-### English Spoken Script (~1,030 words)
+### English Spoken Script (~750 words)
 
-Good morning again, ladies and gentlemen. Welcome to Picturesque Zhejiang—my home province and one of China’s most talked-about destinations. Whenever people mention Zhejiang, phrases like “land of fish and rice,” “land of silk,” and “land of culture” quickly follow, and after today you’ll understand why.
+Friends, before we dive into individual cities, let me sketch the big picture of Zhejiang Province. When Chinese people praise a place, they call it “a land of fish and rice” or “a home of poets and silk.” Zhejiang earns both titles.
 
-Zhejiang stretches along China’s southeast coast, forming the southern wing of the Yangtze River Delta. The mighty Qiantang River, once called Zhijiang, slices through the province and even lends Zhejiang its name. The province covers about 105,500 square kilometres, just 1.1% of China’s land, yet we pack in more than 66 million people—so it’s compact, energetic, and full of opportunity.
+Geographically, we stretch along China’s southeastern coastline, forming the southern wing of the Yangtze River Delta. The province covers roughly 105,500 square kilometres—only 1.1 percent of China’s land—but it houses more than 66 million people. The Qiantang River, once called Zhijiang, flows through the province and even gives Zhejiang its name. Mountains and hills make up about seventy percent of the terrain, water fills another ten percent, and the remaining twenty percent is precious farmland. That topography explains our lush tea fields, terraced farms, and winding rivers.
 
-The terrain is dramatic. Seven parts mountains, one part water, and only two parts farmland—that old saying really sums it up. Hills and valleys roll into each other, with rivers zigzagging through. The subtropical monsoon climate keeps things warm and humid, with four very distinct seasons and an annual average temperature of 15 to 18 degrees Celsius.
+Administratively, Zhejiang oversees 11 prefecture-level cities. Hangzhou is the capital and innovation engine. Ningbo anchors the maritime economy with one of the world’s busiest ports. Wenzhou, Taizhou, Jinhua, Shaoxing, Jiaxing, Huzhou, Quzhou, Zhoushan, and Lishui each contribute their own flavour—whether it’s manufacturing, trade, religion, or eco-tourism. Getting around is easy: nine civilian airports dot the province, high-speed railways stretch more than 1,800 kilometres, and ferries zip between Ningbo, Zhoushan, and Shanghai across the so-called “Golden Triangle” of sea travel.
 
-Zhejiang administers 11 prefecture-level cities, including the capital Hangzhou and the port powerhouse Ningbo. Transportation is a breeze: nine civilian airports connect us to the world, the high-speed rail network now extends over 1,800 kilometres, and ferries dash between Ningbo, Zhoushan, and Shanghai across what we lovingly call the “Golden Triangle” of sea travel.
+The timeline here is long. Archaeologists discovered “Jiande Man” from 50,000 years ago, the Hemudu Culture from 7,000 years ago, and the Liangzhu Culture from 5,000 years ago. The Grand Canal in the Sui and Tang dynasties boosted cities like Hangzhou, and by the Southern Song Dynasty Hangzhou was the capital of China while Ningbo became a major port on the Maritime Silk Road. That legacy of openness still shapes Zhejiang’s character today.
 
-History here is measured in tens of thousands of years. Archaeologists have identified “Jiande Man” communities from 50,000 years ago. Hemudu Culture flourished 7,000 years ago, Liangzhu Culture 5,000 years ago, all proving that Neolithic civilisation thrived here long before recorded history. During the Sui and Tang dynasties, the Grand Canal turned Hangzhou into a superstar city, and by the Southern Song Dynasty, the city was the nation’s capital and one of the world’s greatest metropolises. Ningbo, meanwhile, shone as a major port on the Maritime Silk Road.
+Economically, Zhejiang is known as China’s “experiment lab.” Private enterprises thrive here, from family-run workshops to tech giants. The province also leads in digital government, ecological conservation, and rural revitalisation. People here work hard, but they balance it with a refined lifestyle—tea ceremonies, opera, and outdoor sports are part of daily life.
 
-Today Zhejiang is still a national trendsetter. The economy, politics, society, and ecological development all rank among the best in China. We often call Zhejiang a “laboratory of reform” because so many of the country’s innovation policies are piloted here.
+Cultural resources follow suit. Zhejiang hosts 11 items on UNESCO’s Intangible Cultural Heritage list, including Longquan celadon, Kunqu Opera, blue-dyeing art, and legends like the White Snake. Our tangible heritage is equally impressive: West Lake, the Zhejiang stretch of the Grand Canal, the Archaeological Ruins of Liangzhu City, and Jianglang Mountain all hold UNESCO World Heritage status. On top of that, we have twenty-one national 5A scenic sites scattered across the province.
 
-You’ll also notice how rich the culture is. Eleven items from Zhejiang appear on UNESCO’s Representative List of the Intangible Cultural Heritage of Humanity—everything from Longquan celadon firing techniques and Kunqu Opera to the legendary tales of the White Snake. If you love shopping for souvenirs, you’re in luck. Hangzhou silk, Longjing green tea, Zhang Xiaoquan scissors, Wang Xing Ji fans, and Qingtian stone carvings are classic favourites.
+To help visitors plan, we divide the province into four tourism metropolitan areas. The Hangzhou metropolitan circle mixes urban leisure, lakeside strolls, and classic water towns. The Ningbo–Zhoushan area highlights island scenery and Buddhist culture at Mount Putuo. The Wenzhou–Taizhou belt delivers dramatic mountains like Yandang as well as folk customs along the Nanxi River. The Jinhua–Yiwu region balances business and culture—you can shop in the world’s largest small-commodity market in the morning and walk into a movie set at Hengdian Studios in the afternoon. Places like Quzhou, Lishui, and the mountainous southwest ride on the same wave, developing integrated tourism that blends ecology, culture, and farm life.
 
-Tourism resources are abundant. Zhejiang boasts 21 national 5A scenic spots and four UNESCO World Heritage properties: West Lake, the Zhejiang section of the Grand Canal, the Archaeological Ruins of Liangzhu City, and the natural wonder Jianglang Mountain. The idea here is to blend natural landscapes with human stories—mountains, rivers, lakes, temples, and old towns are all part of the same experience.
+Looking forward, Zhejiang champions “all-area tourism.” Rural homestays, coastal cruises, study camps for students, and health retreats pop up alongside digital museum tours and immersive light shows. The goal is to keep tourism diverse, accessible, and high quality. As your guide, I’ll help you pick the experiences that fit your interests, from tea-picking in Meijiawu to sailing in Zhoushan.
 
-To make travel planning easier, the province promotes four major metropolitan areas. Downtown Hangzhou teams up with Huzhou, Jiaxing, and Shaoxing to form the Hangzhou Metropolitan Area. This zone focuses on urban leisure, waterfront vacations, and classic water towns. Imagine drifting across West Lake in the morning, discovering Grand Canal heritage in the afternoon, and sharing tea in an ancient town like Wuzhen or Xitang in the evening.
+So that’s Zhejiang in a nutshell: compact but powerful, ancient yet modern, and always ready to welcome guests with both business savvy and poetic charm. If any destination catches your imagination, tap me on the shoulder—we’ll make it happen.
 
-Further east, Ningbo and Zhoushan build a maritime-and-religion-focused metro area. Zhoushan Island—the fourth largest in China—is a paradise for island hopping and fishermen’s culture. And if you’re curious about Buddhism, Mount Putuo is a must-see. It’s the sacred site of Guanyin and one of China’s four great Buddhist mountains, praised as the “Buddhist Kingdom on the Sea.”
-
-South of there lies the Wenzhou–Taizhou Metropolitan Area. It highlights rugged mountains, folk customs, and religious heritage. Yandang Mountain dazzles with cliffs and waterfalls, Nanxi River meanders past ancient villages, and Tiantai Mountain carries deep connections to both Taoism and Buddhism.
-
-The final metropolitan cluster covers Jinhua and Yiwu. It’s where commerce, culture, and creativity overlap. Yiwu International Trade City gives you a taste of global small-commodity trading, while Hengdian World Studios lets you walk straight into China’s movie industry.
-
-These four hubs radiate outwards, drawing travellers to other corners such as Quzhou and Lishui. Places like Nianbadu Ancient Town and the Yunhe Terraces are becoming household names. Everywhere you go, you feel the province’s push toward “integrated tourism,” meaning the entire region works together to share resources and deliver consistent, high-quality experiences.
-
-Innovation keeps tourism fresh. Zhejiang has rolled out rural holidays, maritime adventures, study tours, wellness retreats, and even digital immersive products. Personalised, differentiated itineraries are the new normal here.
-
-That wraps up my overview of Zhejiang. Thank you for listening, and I truly hope you fall in love with this charming province. If anything piques your interest, let me know—I’m happy to dive deeper while we travel together. Enjoy every moment in Picturesque Zhejiang!
+**Prompt Words:** province overview · 105,500 km² & 66M people + Qiantang · 11 cities + 9 airports + 1,800 km HSR + ferry “Golden Triangle” · 50k/7k/5k yr cultures + Grand Canal/Song capital · reform lab economy · UNESCO West Lake/Canal/Liangzhu/Jianglang + 21×5A · 4 metro circles (Hangzhou/Ningbo/Wenzhou/Jinhua) · all-area tourism (rural/coast/digital) · customised plans
 
 ### 中文原稿
 
@@ -90,165 +78,166 @@ That wraps up my overview of Zhejiang. Thank you for listening, and I truly hope
 　　　浙江历史源远流长，是华夏古代文明的发祥地之一。早在五万年前的旧石器时代，名为 “建德人” 的原始人类便已在此繁衍生息。七千年前的河姆渡文化以及五千年前的良渚文化，有力地佐证了新石器时代此地古代文明的熠熠光辉。隋唐时期，大运河令杭州等城市声名鹊起；到了南宋，杭州跃升为国都，成为当时全球首屈一指的大都市，宁波也成为海上丝绸之路的重要港口。数千年来，浙江一直在中国占据着举足轻重的地位。时至今日，浙江已成为中国沿海省份中的一颗璀璨明星，在经济、政治、文化、社会及生态领域均成绩斐然。  
 　　　浙江文化遗产与手工艺品琳琅满目，共有 11 项入选联合国教科文组织的人类非物质文化遗产代表作名录，诸如龙泉青瓷烧制技艺、昆曲，还有家喻户晓的《白蛇传》传说。要是您正琢磨着带些别具一格的物件回去馈赠亲友，那可选的特产可不少，像杭州丝绸、龙井绿茶、张小泉剪刀、王星记扇子、青田石雕等等。  
 　　　说到旅游资源，女士们、先生们，浙江绝对堪称一处自然景观与人文景致相得益彰的仙境。这里坐拥 21 处国家 5A 级旅游景区以及 4 处世界遗产，其中包括 3 处世界文化遗产 —— 杭州西湖、大运河（浙江段）以及良渚古城遗址，还有 1 处世界自然遗产 —— 江郎山。  
-　　　在旅游目的地打造方面，浙江堪称全域旅游的先行者与践行者。省内规划有四大都市圈。  
-　　　省会杭州是长江三角洲的旅游枢纽，与周边的湖州、嘉兴、绍兴携手组成杭州都市圈，主打都市休闲、古镇休闲以及滨水度假等旅游特色。譬如，您既能在现代化都市杭州领略举世闻名的西湖、大运河这类自然与人文盛景，也能漫步乌镇等古镇，感受独有的静谧与韵味。  
-　　　宁波与舟山组成的都市圈，洋溢着浓郁的海洋与宗教文化气息。舟山岛是中国第四大岛，在此，您可以饱览旖旎海岛风光，体验别具一格的渔家文化。倘若您对佛教感兴趣，普陀山定是不可错过的圣地，它是观音菩萨的道场，位列中国四大佛教名山，享有 “海天佛国” 的美誉。  
-　　　温州都市圈涵盖温州与台州，着重凸显山地风光、民俗风情以及宗教文化。此地声名远扬的景点众多，雁荡山、楠溪江沿线古村落，还有与佛道两教渊源颇深的天台山，皆令人流连忘返。  
-　　　金华 - 义乌都市圈文化多元交融，您既能在义乌国际商贸城感受浓厚的商贸文化，又能于横店影视城领略影视文化的独特魅力。  
-　　　受这四大都市圈的辐射带动，浙江其他地区，诸如衢州、丽水，也纷纷投身全域旅游发展浪潮。廿八都古镇、云和梯田这类景点同样备受游客青睐。  
-　　　得益于理念创新与政策扶持，浙江全域旅游催生出诸多新产品，像乡村旅游、海洋旅游、研学旅游等，促使全域旅游迈向个性化、差异化发展之路。倘若您感兴趣，稍后我可为您详述。  
-　　　女士们、先生们，我对浙江省的介绍到此告一段落。感谢大家的聆听，衷心祝愿大家在这如诗如画的浙江留下一段难忘回忆！  
+　　　在旅游目的地打造方面，浙江堪称全域旅游的先行者与践行者。省内规划有四大都市圈……  
 
 ## Script 2 · 大运河（浙江段）
 
-### English Spoken Script (~1,100 words)
+### English Spoken Script (~720 words)
 
-Friends, our next story takes place along the Zhejiang stretch of the Grand Canal—the southern jewel of the world’s longest man-made waterway. Hop off the coach, stretch your legs, and let the past speak. I’ll walk you through how this engineering miracle shaped Hangzhou and the province.
+Next up, let’s stroll beside the Zhejiang stretch of the Grand Canal, the southern jewel of the world’s longest man-made waterway. Picture yourself here 1,400 years ago: boats stacked with silk and porcelain slid past quietly, government riders hurried south with instructions, and sleepy-eyed poets leaned on the railings to write about the mist. That same river is still breathing, and today we’ll read it like a simple storybook.
 
-Two and a half millennia ago, people here were already digging strategic canals. By the Sui Dynasty, Hangzhou officially became the southern terminus of the Grand Canal. Imagine the scene: barges piled with grain, silk, porcelain, and salt moving day and night; imperial envoys dispatching orders; scholars and artists drifting south to seek inspiration. No wonder the canal, together with the Great Wall and Xinjiang’s Karez wells, is hailed as one of ancient China’s three mega projects.
+People started digging canals here as early as the Spring and Autumn Period, and by the Sui Dynasty Hangzhou was officially the southern end of the main route. Along with the Great Wall and the Karez wells, the Grand Canal is one of ancient China’s three mega projects. It stretches for more than 3,200 kilometres, crosses eight provinces and municipalities, and touches five big river systems. Zhejiang’s stretch was called the “Official River” because the government paid for it, checked every lock, and kept the traffic safe.
 
-The canal we admire today stretches more than 3,200 kilometres, crosses eight provinces and municipalities, and links five great river systems. Zhejiang’s section is called the “Official River” in the history books, because the government planned, funded, and managed every lock and levee. That administrative attention kept the province’s economy humming right up to the modern era. Even now, about 80 percent of Hangzhou’s cargo volume travels by water—remarkable in an age obsessed with trucks and airplanes.
+Even today roughly 80% of Hangzhou’s heavy goods still move by water, and you can imagine how lively the banks used to be. Silk workshops, tea warehouses, pharmacies, and opera troupes lined the locks. Merchants sailed north with bags of Zhejiang tea and came back with wheat, salt, or fancy gifts. Because the canal linked inland towns to Ningbo Port, goods could flow straight out to sea.
 
-The canal’s cultural status is just as impressive. Poets in every dynasty floated down to Zhejiang and left lyrical snapshots of cities, bridges, and markets. In 2014, UNESCO added the Grand Canal to the World Heritage List, and the Zhejiang section alone accounts for 18 of the inscribed sites. In 2019, it became one of Zhejiang’s four themed “poetry roads,” a figurative term for scenic corridors that merge nature and culture.
+Culturally, the canal is like a floating library. Writers such as Bai Juyi and Lu You described the bridges, the moonlight, and the sound of oars at night. In 2014 UNESCO listed the Grand Canal as a World Heritage Site, and 18 of those protected spots sit right here in Zhejiang. In 2019 the province even launched the “Grand Canal Poetry Road,” turning the route into a living string of museums and parks.
 
-Today we’re standing in Xiaohe Street Historical Block. It used to be an industrial and residential quarter along the canal; now it’s a living museum. One minute you’re sipping tea in a century-old shophouse, the next you’re nibbling local snacks in a trendy café. Restoration work encouraged 60 percent of original residents to move back, which is the best compliment an urban renewal project can receive. No surprise the United Nations honoured Xiaohe with a human-settlements award.
+Today we’ll focus on Xiaohe Street Historical Block. It used to be a worn-down industrial neighbourhood, but careful restoration invited original families back, patched up wooden shophouses, and turned the street into a relaxed row of tea rooms, studios, and cafés. The United Nations even gave Xiaohe a Habitat Award as an example of how heritage can help residents live better.
 
-Take a wander for the next half hour. Step onto the stone pier, photograph the boats gliding past, or just breathe in the mix of river mist and roasting coffee beans. Please be back by 10:30—we’ll board a boat at the dock right behind me.
+I’ll give you free time to wander—try the sesame cakes, peek into the workshops, or stand on the pier watching barges slip past the old warehouses. When you hear my call at 10:30, please regroup at the pier so we can hop on the cruise.
 
-Great, everyone is back. Please watch your step as you board. The canal water looks calm, but the current is stronger than you think, so keep phones and cameras secure. I’d hate to fish a brand-new smartphone out of the “new treasure vault” at the bottom.
+Onboard, watch for a few landmarks. To our left sits the Canal Culture Square with the Beijing–Hangzhou Grand Canal Museum. To our right lies Qiaoxi Historical Block, where old factories now host design studios and galleries. Straight ahead is the shining Gongchen Bridge—the tallest and longest old stone arch bridge in Hangzhou. The name means “paying tribute to virtue,” and if you squint you can see the arch bending like someone bowing to welcome the emperor’s boat.
 
-On your left is the Canal Culture Square, home to the Beijing–Hangzhou Grand Canal Museum. On your right is Qiaoxi Historical Block, a cluster of repurposed factories now filled with design studios, galleries, and craft shops. Straight ahead you can already spot Gongchen Bridge. Its name comes from a Confucian ideal about “winning the hearts of the people,” and if you squint you’ll notice the bridge looks like someone bowing to greet the imperial barge. This elegant arch marks the canal’s southern terminus and remains Hangzhou’s tallest and longest stone bridge.
+As we pass under the bridge, look up at the carved “water beasts” on the piers. They were meant to calm flooding and they make fun photo moments. After disembarking we’ll climb the bridge for a view and then head to the museum cluster—the Chinese Umbrella Museum, Chinese Fan Museum, and Chinese Knife, Scissor and Sword Museum. Try the interactive exhibits; you can stretch silk onto an umbrella frame or test how fan ribs snap together.
 
-As we drift underneath, look up toward the two pier guardians—they’re “water beasts” carved to ward off floods. Once we dock, we’ll climb the bridge for a panoramic view and then descend on the other side.
+Practical reminder: the canal banks are narrow, so watch your step when taking pictures. Keep your phone and cash handy but safe. Also remember that people still live upstairs in these historic houses, so please keep your voice low in the alleys.
 
-Welcome to the museum quarter. Those brick buildings used to be warehouses; today they house the Hangzhou Arts and Crafts Museum plus three national-level collections: the Chinese Umbrella Museum, the Chinese Fan Museum, and the Chinese Knife, Scissor and Sword Museum. Together they tell the story of Hangzhou’s artisans—why this city became synonymous with silk umbrellas, sandalwood fans, and razor-sharp scissors. Feel free to experiment with the interactive exhibits; you can even try assembling a bamboo-ribbed umbrella if time allows.
+After the cruise, I hope you’ll feel why people here love this waterway. It carries goods, but it also carries identity. Ready for the next story? Let’s keep moving.
 
-Before we wrap up this canal experience, let me emphasise a few practical notes. The canal banks are narrow in places, so stay alert when you take photos. If you’re tempted to shop, Xiaohe Street has plenty of respectable vendors—bargain politely, and carry small change if you’re buying handmade crafts. Lastly, respect the residents: people still live upstairs in many of the old houses, so keep voices low in the alleys.
-
-The Grand Canal isn’t just an old trench filled with water. It’s the beating heart that linked north and south China, shaped Zhejiang’s economy, and inspired poets and planners alike. I hope this visit leaves you with the same awe I feel every time I stand on Gongchen Bridge and watch the boats glide by. Ready to move on? Let’s head back to the coach and continue our journey.
+**Prompt Words:** canal history opener · 3,200 km length + 8 provinces + “Official River” · 80% Hangzhou cargo & market scenes · poet heritage & UNESCO 18 sites · Xiaohe revival + UN award · free time + 10:30 regroup · cruise spots (Museum Square/Qiaoxi) · Gongchen Bridge & “water beasts” · umbrella/fan/blade museums · etiquette tips · identity wrap-up
 
 ### 中文原稿
 
 *原文件仅提供英文导览稿，本处无单独中文原稿。*
-
-## Script 4 · 良渚古城遗址
-
-### English Spoken Script (~1,050 words)
-
-Ladies and gentlemen, welcome to the Archaeological Ruins of Liangzhu City—UNESCO calls it “the sacred ground that demonstrates 5,000 years of Chinese civilisation.” We’re standing in the cradle of a late Neolithic culture that flourished between 5,300 and 4,300 years ago in the middle and lower Yangtze River basin.
-
-Liangzhu’s story unfolds through three major components: the grand walled city, the sophisticated outer water conservancy system, and the Yaoshan altar complex. Together, they present the earliest known example of a planned capital in East Asia. Imagine a society with specialised craftsmen, stratified classes, organised religion, and far-reaching trade routes—all long before bronze weapons appeared in the Central Plains.
-
-Today’s ruins park doubles as a wetland reserve. The ancient city rose from a network of rivers and lakes, so modern conservation keeps the reed beds and waterways intact. The actual ruins hide beneath the soil for protection. The outlines you see—highlighted with metal grids or planted embankments—show where gates, palaces, and ceremonial squares once stood. Please stay on walkways; even a careless footprint could damage something priceless underground.
-
-Our first stop is the sole land gate among Liangzhu’s nine gates. The others were water gates, emphasising how residents moved primarily by boat. Archaeologists recreated the bustling scene with metal silhouettes of people, ox carts, and even dogs—the same faithful companions we keep today.
-
-We then ascend the Mojiao Mountain Palace District. This massive rammed-earth platform towers ten metres above the plain. Liangzhu rulers believed “lofty heights command respect,” so they stacked three smaller terraces on top: Greater Mojiao, Lesser Mojiao, and Turtle Mountain. On Greater Mojiao, excavators found seven house foundations, each about 200 square metres. Just beyond stretches a 70,000-square-metre sand square that likely hosted rituals or military parades.
-
-Next is Fanshan Cemetery, the highest-ranking burial ground discovered so far. Over 1,200 grave goods surfaced from this site, more than 90 percent carved from jade. Jade cong, jade yue, and jade bi formed ritual sets representing divine, royal, and military power. Many bear the famous “divine human-beast” motif—a symbol of shared faith and authority. Liangzhu’s mastery of jade carving influenced Chinese ritual art for millennia afterward.
-
-Equally mind-blowing is the hydraulic system outside the city: 11 large dams, 5 major reservoirs, and countless channels. UNESCO recognises this as the world’s earliest large-scale flood-control project. It worked as a moated defence, an irrigation network, and a transport artery all at once. When you look across the wetlands, try to picture ancient engineers shaping the landscape with nothing but earth, wood, and ingenuity.
-
-Before we finish, a few reminders. The park is huge, so shuttles are available if anyone needs a break. Bring water, wear sunscreen, and be respectful when you see archaeologists at work—photography is fine, but don’t cross cordoned-off areas. Most importantly, absorb the fact that long before the Xia or Shang dynasties, Liangzhu people already operated a complex state. That’s why we say Chinese civilisation is “five thousand years old and counting.”
-
-### 中文原稿
-
-*原文件仅提供英文导览稿，本处无单独中文原稿。*
-
-## Script 5 · 嘉兴市桐乡乌镇古镇旅游区
-
-### English Spoken Script (~1,000 words)
-
-Next, we journey to Wuzhen, the “last water town” between Suzhou and Hangzhou. The Grand Canal slices through town, so you can sense how river trade shaped daily life over the past millennium.
-
-Wuzhen splits into two scenic zones. Dongzha (East Gate) preserves living traditions—silk-dyeing workshops, woodcarving studios, and narrow alleys where residents still hang laundry above the canal. Xizha (West Gate) blends culture with leisure—boutique inns, lantern-lit night cruises, and coffee shops tucked inside old granaries. Together they formed the stage for the World Internet Conference in 2014, proving that ancient charm and digital innovation can share the same postcode.
-
-As we wander through Dongzha, keep your eyes open for the Hundred-Bed Museum, whose crown jewel is the Qing Dynasty “Babu Qiangong” bed carved from camphor wood. Nearby stands the former residence of Muxin (Sun Pu), the Wuzhen-born writer and artist who inspired generations with his dreamy prose and paintings.
-
-Cross over to Xizha and you’ll meet the 51.75-metre White Lotus Pagoda, wetlands lined with wooden boardwalks, and night markets selling everything from handmade fans to creative desserts. When the lanterns switch on at dusk, the reflections on the canal create a scene worthy of any painting.
-
-Wuzhen survives because conservation focused on people, not just buildings. Restoration encouraged original residents to return, and their presence keeps the dialect, food, and festivals alive. When you shop, try to buy from workshops where artisans are on site—they’ll happily explain how they dye silk or brew rice wine. Bargain with a smile and keep small change handy.
-
-Practical tips: cobblestones become slick after rain, so wear grippy shoes. Motor vehicles are restricted, but electric boats and shuttles help when legs get tired. Respect locals’ privacy, especially at night, and don’t throw coins into the canal; the water needs to stay clean for both heritage and ecology.
-
-By the end of the visit, you’ll see why Wuzhen ranks among China’s top ancient towns—its bridges, waterways, and human warmth offer a gentle pause from city life.
-
-### 中文原稿
-
-*原文件仅提供英文导览稿，本处无单独中文原稿。*
-
-## Script 6 · 舟山市普陀山风景名胜区
-
-### English Spoken Script (~980 words)
-
-Now we set sail for Mount Putuo, part of Zhoushan’s island chain and one of the four Buddhist mountains of China. Pilgrims have crossed these waters for over a thousand years to pay homage to Guanyin, the Bodhisattva of Compassion.
-
-Upon docking, you’ll notice the salty wind mingled with incense. Our first landmark is the 18-metre South Sea Guanyin statue. Counting the lotus pedestal and the merit hall beneath, the structure rises 33 metres—symbolising the Bodhisattva’s thirty-three manifestations. Pilgrims walk clockwise, offer incense, and whisper prayers for peace.
-
-The “Unwilling-to-Leave Guanyin Temple” stands nearby. Legend says a monk tried to carry a statue overseas, but the statue refused to move, so a temple was built on the spot. The current hall was reconstructed in 2001 and remains an important stop for devotees.
-
-Deep inside the island, we’ll pass the 13.5-metre hornbeam tree—over 200 years old and considered one of Putuo’s three treasures. Eventually we reach Puji Temple, the island’s largest monastery. Inside the Heavenly Kings Hall, Maitreya greets us with a smile, Weituo protects the rear, and the Four Heavenly Kings stand vigilant on both sides. The temple complex stretches over ponds, courtyards, and prayer halls; chanting often mingles with the crashing waves outside.
-
-Practical reminders: Putuo involves a lot of climbing, so wear comfortable shoes and carry water. Dress modestly inside temples—no bare shoulders or loud slogans on shirts. When lighting incense, use the designated burners and never leave flames unattended. The island weather changes quickly, so carry a light raincoat.
-
-Before leaving, check out the fishing villages dotted along the coast. Putuo locals still dry seaweed on rooftops and mend nets at the pier. Buying a few local snacks supports their livelihood, but bargain politely and avoid blocking narrow lanes.
-
-Watching the sun set into the East China Sea, you’ll understand why Mount Putuo is called the “Buddhist Kingdom on the Sea.” Whether you came for faith or scenery, the serenity of the island stays with you.
-
-### 中文原稿
-
-*原文件仅提供英文导览稿，本处无单独中文原稿。*
-
-## Script 7 · 义乌小商品城
-
-### English Spoken Script (~1,050 words)
-
-Our final stop is Yiwu International Trade City—the world’s largest wholesale market for small commodities. This is where “Made in China” trinkets meet buyers from every continent.
-
-Yiwu lies in central Zhejiang, about 150 kilometres from Hangzhou. In the early 1980s, farmers set up barter stalls—exchanging chicken feathers for sugar—a quirky beginning to what is now a global marketplace. Today the Futian Market complex houses five districts, 75,000 booths, and more than 400,000 product types. Markets open around nine in the morning, close after five, and host buyers from over 200 countries daily.
-
-Each district specialises. District 1 deals in artificial flowers, jewellery, and toys. District 2 features luggage, hardware, and small home appliances. District 3 showcases stationery, sporting goods, and cosmetics. District 4 offers hosiery, gloves, and textiles, while District 5 presents imported goods and bedding. Moving walkways connect the halls, so plan your route or you’ll walk miles without realising it.
-
-To shop like a pro:
-
-1. **Bring business cards or QR codes.** Suppliers scan them to remember your requirements.
-2. **Know the MOQ (Minimum Order Quantity).** Most booths sell by cartons or dozens rather than single pieces. Samples are negotiable but not guaranteed.
-3. **Use on-site services.** Freight forwarders, inspection agencies, and customs offices sit right inside the market. You can place an order, book shipment, and track the package before leaving the complex.
-4. **Respect intellectual property.** Yiwu authorities shut down counterfeit booths quickly. Work with authorised factories and sign clear contracts covering trademarks and packaging.
-
-Yiwu doubles as an international community. You’ll hear multiple languages, see halal restaurants next to Sichuan noodle shops, and watch live-stream hosts promoting new gadgets to online shoppers. At night, head to the exotic street near Binwang Market to experience global food culture.
-
-If you need a break from commerce, visit Xiuhu Park or the nearby Fotang Ancient Town. But most visitors find the excitement right inside Futian Market—the endless shelves of creative gadgets, seasonal decorations, and made-to-order souvenirs.
-
-Key reminders: wear comfortable shoes, keep receipts, and be cautious with cash—banks on-site handle secure transfers. When bargaining, smile and stay patient; long-term relationships are worth more than shaving a few yuan off a deal.
-
-That wraps up our eight-minute whirlwind through Yiwu. Whether you’re a professional buyer or a curious traveller, I hope you’ve felt the entrepreneurial spirit that keeps this market buzzing day and night.
-
-### 中文原稿
-
-*原文件仅提供英文导览稿，本处无单独中文原稿。*
-
 ## Script 3 · 杭州市西湖风景名胜区
 
-### English Spoken Script (~1,120 words)
+### English Spoken Script (~720 words)
 
-Welcome back to Hangzhou proper, everyone. The next chapter of our journey unfolds around West Lake—the city’s signature postcard, poem, and love letter all rolled into one. People in China like to say, “Among the 36 West Lakes, Hangzhou’s is the best.” Today we’ll see exactly why.
+Now we arrive at the heart of Hangzhou’s charm: West Lake. Locals love to say, “There are thirty-six West Lakes across China, but ours is the crown jewel.” The best way to appreciate it is to combine legend, landscape, and a little practical advice, so let me walk you through all three.
 
-West Lake nestles against the western edge of the old city, embraced by hills on three sides. It covers 6.4 square kilometres—big enough to explore for days, yet intimate enough to feel personal. According to legend, the lake was a pearl dropped from heaven, guarded forever by a dragon and a phoenix. According to geology, it was once a shallow bay connected to the Qiantang River until tidal silt sealed it off. Either story adds flavour to the scenery.
+The lake covers roughly 6.4 square kilometres, embraced by gentle hills on three sides and the old city on the east. My favourite way to explain the layout is with the classic formula: one hill (Solitary Hill), two pagodas (Leifeng Pagoda and Baochu Pagoda), three islets, three causeways, and five lake sections. Over the centuries the lake has inspired ten famous views with poetic names—Spring Dawn at Su Causeway, Moon over the Peaceful Lake, Autumn Moon over the Calm Lake, and so on. In 2011 UNESCO recognised the West Lake Cultural Landscape as China’s only lake-themed World Heritage site.
 
-People often summarise West Lake’s layout as “one hill, two pagodas, three islets, three causeways, and five lake basins.” Since the Southern Song Dynasty, scholars identified ten iconic views that capture the harmony between humans and nature. In 2011, UNESCO recognised the West Lake Cultural Landscape as the only “lake-themed” World Heritage site in China.
+Legend says West Lake is a pearl dropped from heaven, guarded by a dragon and a phoenix. Scientists say it used to be a shallow bay connected to the Qiantang River until tide-borne silt sealed it off. Either story works, because the real charm lies in how people shaped the shoreline with gardens, pagodas, and tea houses without ever ruining the view.
 
-We’ll start by boarding a cruise boat, so please watch your step and keep valuables secure. While we drift, I’ll point out a few highlights and then give you time to wander on foot.
+We’ll board a boat for a slow cruise. Please hold the rail when stepping on, tuck cameras into a strap, and keep an eye on the breeze—it likes to borrow hats. As the boat glides along, I’ll point out highlights.
 
-First up, Su Causeway. It runs 2.8 kilometres north to south, lined with six stone bridges and willows that sprout earlier than anywhere else around the lake. That early spring greenery earned it the top spot among the Ten Views: “Spring Dawn at Su Causeway.” The causeway is named after Su Dongpo—also known as Su Shi—the Northern Song poet and statesman. When he returned to govern Hangzhou, he found the lake half silted and organised 200,000 workers to dredge it, piling the mud into this raised road so people could stroll between the banks. Locals still praise Su Dongpo for flood control, for fighting plagues, and yes, for inventing Dongpo Pork. Apparently townsfolk kept delivering wine and pork to thank him, so he braised everything together and shared it with the labourers.
+First is Su Causeway, a 2.8-kilometre ridge linking the north and south shores. Willows here bud earlier than elsewhere, so “Spring Dawn at Su Causeway” ranks first among the Ten Views. It’s named after Su Dongpo, the legendary poet and governor. During his term, he dredged the lake with 200,000 workers, used the mud to build the causeway, and even created Dongpo Pork by simmering the thank-you gifts villagers brought him.
 
-Now hold up a one-yuan banknote and flip it over. See that moonlit scene? That’s “Three Pools Mirroring the Moon.” You’re looking at three hollow stone pagodas rising from the water. Each stands about two metres tall with five round holes. On Mid-Autumn night, locals light candles inside, cover the holes with thin paper, and the reflections multiply across the lake. With one moon in the sky and ten reflections from each pagoda, you get thirty-three moons in total—the last one is the moon in your heart, representing the people you miss. That’s the gentle romance of West Lake.
+Next, take out a one-yuan banknote and look at the back. The picture is “Three Pools Mirroring the Moon.” The three hollow stone pagodas rising from the water each have five small holes. On Mid-Autumn night, candles are placed inside, thin paper covers the holes, and the reflections create thirty-three “moons,” including the moon in your heart—the one that represents the people you miss during festivals.
 
-We’ll disembark near Broken Bridge, the most famous bridge around the lake. Legend says White Snake met Xu Xian here and fell instantly in love. Why call it “broken” if nothing has collapsed? In winter, snow on the sunny side melts earlier than on the shady side, creating the illusion of a gap. That scene is immortalised as “Lingering Snow on the Broken Bridge.” Nearby stands a pavilion with an imperial inscription by Emperor Kangxi, adding imperial flair to the view.
+We’ll disembark near the Broken Bridge. According to the legend of the White Snake, Bai Suzhen met Xu Xian here and fell hopelessly in love. In winter, sunlight melts the snow on one side earlier than the other, making the bridge look broken from afar. That scene became another famous view, “Lingering Snow on the Broken Bridge.” Nearby stands a pavilion with Emperor Kangxi’s calligraphy, giving the site an imperial blessing.
 
-From the bridge, you can also see Baidi (Bai Causeway) and Solitary Hill. Climb the hill for vistas of the lake, or wander east to see Gu Shan’s cultural relics, including the Zhejiang Provincial Museum. Wherever you go, remember that West Lake is a living landscape—locals jog, dance, and practise tai chi here. Blend in, move gently, and avoid stepping on grass that’s roped off for restoration.
+From the bridge you can access Bai Causeway and Solitary Hill. Bai Causeway is perfect for leisurely walks, with peach blossoms in spring and reed beds in autumn. Solitary Hill houses art museums, the Zhongshan Park, and hidden tea houses. If you’d like to rent a bike, this is a good place to start; just stick to the designated lanes and ring the bell gently when you pass locals.
 
-Now comes your free time. Spend it walking, sipping Longjing tea in a lakeside teahouse, or renting a bicycle to circle the shoreline. Please regroup at six o’clock sharp. Afterward, we’ll share a classic Hangzhou dinner and see why Dongpo Pork became Su Dongpo’s signature dish.
+A few practical reminders: West Lake is busy year-round, so keep an eye on personal belongings. Stay on the marked paths—lawns often need time to recover from foot traffic. If you’d like a family photo, hand your camera to me; I’ll happily play photographer.
+
+During your free time, consider tasting Longjing tea in a lakeside teahouse, visiting the ornate Chenghuang Pavilion for a panorama, or simply sitting on a bench to listen to street musicians playing the bamboo flute. Please regroup at 6 p.m. sharp so we can head to dinner and sample the very dishes that made Hangzhou cuisine famous.
+
+**Prompt Words:** UNESCO intro · 6.4 km² lake & pearl legend · cruise brief (breeze/hats) · Su Causeway 2.8 km + 200k labourers · Three Pools = 33 moons + ¥1 note · Broken Bridge love + Kangxi plaque · Bai Causeway/Solitary Hill strolling · safety + photo etiquette · free-time Longjing + 6 p.m. meet · dinner teaser
+
+### 中文原稿
+
+*原文件仅提供英文导览稿，本处无单独中文原稿。*
+## Script 4 · 良渚古城遗址
+
+### English Spoken Script (~650 words)
+
+Ladies and gentlemen, welcome to the Archaeological Ruins of Liangzhu City—the site UNESCO called “the sacred land that proves Chinese civilisation stretches back more than five millennia.” Standing here, surrounded by wetlands and gentle hills, it might be hard to imagine a sophisticated walled city beneath your feet, but let me peel away the centuries for you.
+
+Liangzhu Culture thrived between 5,300 and 4,300 years ago in the lower Yangtze region. Archaeologists describe it as a proto-state, complete with a capital city, organised religion, advanced agriculture, and stunning jade craftsmanship. The ruins park we visit today includes three core elements: the walled city area, the outer water conservancy system, and the Yaoshan altar complex. Together they reveal an urban plan that was carefully zoned for palaces, residences, workshops, and ceremonial squares.
+
+We’ll start at the city gate. Look for the red metal grids marking the rammed-earth foundations. Liangzhu had nine gates in total; this is the only land gate, while the other eight were water gates accessible by boat. Archaeologists even recreated the silhouettes of residents, ox carts, and dogs—yes, dogs were already loyal companions in Liangzhu society.
+
+Next we ascend the Mojiao Mountain Palace District, a huge earthen platform rising ten metres above the plain. The Liangzhu elite believed “height commands respect,” so they piled three smaller terraces—Greater Mojiao, Lesser Mojiao, and Turtle Mountain—on top of the main platform. Postholes show the footprints of houses where rulers lived, held councils, and performed rituals. In front of the platform stretches the 70,000-square-metre Sand Square, an open field likely used for military parades, sacrificial ceremonies, or mass gatherings.
+
+We then visit the Fanshan Cemetery, the highest-ranking tomb complex discovered so far. Archaeologists unearthed more than 1,200 burial objects here, over 90 percent of them jade. The most famous items are the jade cong, jade bi, and jade yue—ritual objects symbolising divine authority, royal power, and military command. Look closely and you’ll see the “divine human-beast” mask carved into the jade, representing the shared beliefs of Liangzhu society. The level of craftsmanship rivals anything made thousands of years later.
+
+Equally impressive is the hydraulic engineering surrounding the city. Liangzhu built the earliest known large-scale water management system in China, complete with dams, reservoirs, levees, and canals. It acted as a moat, provided irrigation, prevented floods, and served as a highway for boats. UNESCO called it the oldest known flood-control project in the world. When you look out over the wetlands today, try to picture Liangzhu engineers directing labourers with wooden shovels and baskets, shaping the land to protect their capital.
+
+The modern ruins park preserves both archaeology and ecology. Most relics remain underground for protection, so the mounds you see are “green museums” marked with plant outlines and interpretive signs. Please stay on the boardwalks, treat the vegetation as part of the exhibit, and follow any instructions from onsite archaeologists—they might be literally holding a 5,000-year-old artefact in their hands.
+
+Liangzhu’s story has a somber end. Scholars believe climate change and catastrophic floods eventually forced residents to abandon the city. Yet the civilisation left a blueprint for later Chinese dynasties: centralised leadership supported by hydraulic control, ritual jade to signal social hierarchy, and a belief system that united people across villages.
+
+As we leave, remember you’ve just walked through evidence that Chinese civilisation didn’t start with bronze weapons or imperial palaces—it was already vibrant here in Liangzhu. That knowledge gives modern Chinese people, and hopefully you too, a deep sense of continuity.
+
+**Prompt Words:** UNESCO framing · 5,300–4,300 yr culture · 9 gates & land gate silhouettes · Mojiao platform + 10 m height · Sand Square 70,000 m² · Fanshan 1,200+ jade artefacts (cong/bi/yue) · earliest dams/reservoirs · boardwalk etiquette · flood/climate legacy
+
+### 中文原稿
+
+*原文件仅提供英文导览稿，本处无单独中文原稿。*
+## Script 5 · 嘉兴市桐乡乌镇古镇旅游区
+
+### English Spoken Script (~670 words)
+
+Our journey now heads to Wuzhen, a thousand-year-old water town wedged between Suzhou and Hangzhou. The Grand Canal slices through it, so every corner whispers about merchants, boatmen, and poets. People call it “the last water town,” but when you stroll across its stone bridges you’ll feel how alive it still is.
+
+Wuzhen is divided into two main scenic zones: Dongzha (East Gate) and Xizha (West Gate). Dongzha preserves the everyday rhythm—handmade blue-dye workshops, noodle stalls, traditional pharmacies, and locals chatting along the canals. Xizha focuses on leisure and creative experiences: boutique inns, bookshops, museums, and night cruises lit by lanterns. Together they hosted the first World Internet Conference in 2014, proving that ancient courtyards and modern technology can coexist in one town.
+
+As we explore Dongzha, you’ll notice wooden houses leaning over the water, their reflections broken only by passing boats. We’ll visit the Hundred-Bed Museum where the star is the Qing Dynasty “Babu Qiangong” bed carved with thousands of tiny patterns. If you enjoy literature, stop by the Muxin Art Museum—Muxin, born Sun Pu in 1927, was a Wuzhen native whose dreamy paintings and essays influenced generations.
+
+Cross over to Xizha and the scene changes. White Lotus Pagoda anchors the skyline at 51.75 metres tall. Boardwalks hug the wetlands, cafés overlook the water, and every alley shows a different mix of tradition and trend. At night the lanterns flicker on, music drifts from teahouses, and the reflections turn the town into a painting you can walk through.
+
+Wuzhen’s success comes from thoughtful conservation. Instead of turning the town into a stage set, planners helped original residents refurbish houses and continue their crafts. Streets remain full of life because people live above the shops, children still run across the bridges, and boatmen still shout directions to each other. When you buy souvenirs, try to choose workshops where artisans are present—they’ll happily explain how they weave silk, carve bamboo, or brew rice wine.
+
+Here are a few practical tips. Cobblestones can be slick after rain, so wear shoes with good grip. Boats and electric shuttles are available, but distances are walkable if you take your time. Be respectful when photographing locals—ask first, especially if they’re in their doorway or courtyard. At night, keep noise levels down; remember that every second-story window may belong to a local family winding down for the evening.
+
+During free time you can sip chrysanthemum tea in a riverside teahouse, watch a shadow-puppet show, or try famous Wuzhen snacks such as smoked soybeans and sanbai liquor. If you’re an early riser, stroll along the canal at dawn—fishermen cast nets, mist curls over the water, and you’ll hear nothing but footsteps on stone.
+
+Wuzhen proves that heritage can breathe. As we leave, take one more look at the willow reflections and promise yourself to return—maybe next time for the World Internet Conference, maybe just for another quiet night by the canal.
+
+**Prompt Words:** water-town vibe · Dongzha daily life vs Xizha leisure · 2014 World Internet Conference · Hundred-Bed museum + Muxin art · 51.75 m White Lotus Pagoda · resident-first conservation · artisan shopping tips · wet-cobble safety & photo manners · snacks/dawn walk ideas · poetic farewell
+
+### 中文原稿
+
+*原文件仅提供英文导览稿，本处无单独中文原稿。*
+## Script 6 · 舟山市普陀山风景名胜区
+
+### English Spoken Script (~660 words)
+
+Next we sail to Mount Putuo in Zhoushan, one of China’s four sacred Buddhist mountains and home of Guanyin, the Bodhisattva of Compassion. As soon as the ferry pulls in you’ll smell salt on the wind, hear temple bells mingling with gull cries, and understand why people call this island the “Buddhist Kingdom on the Sea.”
+
+Mount Putuo sits in the Zhoushan Archipelago, facing the East China Sea. Pilgrims have landed here for over a thousand years, often after visiting Mount Wutai, Emei, or Jiuhua. The island covers just under 13 square kilometres, yet it holds more than a dozen temples, countless shrines, beaches, and fishing villages. Our plan combines spiritual highlights with time to soak in the scenery.
+
+We begin at the 18-metre South Sea Guanyin bronze statue. Counting the lotus pedestal and the merit hall beneath, the entire structure stands 33 metres high—symbolising Guanyin’s thirty-three manifestations. Pilgrims circle clockwise, light incense, and whisper wishes for compassion or protection. Feel free to follow the ritual or simply observe quietly.
+
+Nearby stands the “Unwilling-to-Leave Guanyin Temple,” rebuilt in 2001. Legend says a Japanese monk tried to take a Guanyin statue overseas, but the statue refused to move, so locals built a temple to house it. Today the hall combines traditional layout with modern fire safety, making it both atmospheric and visitor-friendly.
+
+As we move inland, take note of the lush vegetation. The 13.5-metre hornbeam tree, more than 200 years old, is considered one of Putuo’s “three treasures.” The island’s microclimate keeps it green year-round, so even in winter the bamboo and camellias look lively.
+
+Our main temple stop is Puji Temple. Walk through the Heavenly Kings Hall and you’ll see Maitreya smiling at the entrance, Weituo guarding the rear, and the Four Heavenly Kings on each side. The complex sits beside an arched bridge and central pond, so every photo looks like a classical painting. Monks chant regularly; please keep voices low and avoid stepping on the threshold as a sign of respect.
+
+A few practical reminders: Putuo involves plenty of stairs, so comfortable shoes are a must. Seafood is delicious here, but if you follow a vegetarian diet there are dedicated temple restaurants. Weather changes fast—carry a light raincoat and secure hats with a strap when the sea breeze picks up. Inside temples, dress modestly and skip flash photography.
+
+After the temple visits we’ll explore the fishing villages. Residents dry seaweed on rooftops, mend nets at the docks, and sell dried fish that make perfect souvenirs. Bargain politely and remember to step aside when villagers push carts—they’re going about normal life. If time allows, we’ll stop by Nanhai Guanyin Cultural Park or the 1,000-step pilgrimage trail that offers sweeping ocean views.
+
+At sunset, find a spot on Purple Bamboo Forest beach. The sand glows gold, waves lap at the rocks, and the silhouette of Guanyin stands watch. Whether you’re religious or simply a lover of natural beauty, Mount Putuo offers the kind of calm that lingers long after you return home.
+
+**Prompt Words:** sacred island intro (13 km²) · South Sea Guanyin 18 m statue = 33 incarnations · “Unwilling” temple 2001 rebuild · 13.5 m hornbeam & lush ecology · Puji Temple walkthrough · gear checklist (stairs/raincoat/modest) · fishing villages & dried seafood · veggie/seafood reminders · sunset blessing
+
+### 中文原稿
+
+*原文件仅提供英文导览稿，本处无单独中文原稿。*
+## Script 7 · 义乌小商品城
+
+### English Spoken Script (~680 words)
+
+Our final stop is Yiwu International Trade City, often called the world’s supermarket for small commodities. If you’ve ever bought a Christmas ornament or phone accessory stamped “Made in China,” chances are it passed through Yiwu. Today I’ll show you how a rural barter market turned into a global supply hub.
+
+Yiwu sits in central Zhejiang, about 150 kilometres from Hangzhou. In the early 1980s, farmers set up roadside stalls to trade chicken feathers for sugar—an image that still makes locals grin. From that humble start grew the Futian Market, now an enormous complex with five districts, over 75,000 booths, and more than 400,000 product categories. Markets open around 9 a.m., close after 5 p.m., and welcome buyers from more than 200 countries every day.
+
+Each district specialises. District 1 covers artificial flowers, jewellery, and toys. District 2 sells luggage, hardware, and small appliances. District 3 focuses on stationery, sporting goods, and cosmetics. District 4 is all about hosiery, hats, and textiles, while District 5 showcases imported goods and bedding. Moving walkways connect the halls, so map out your route or you’ll walk a half-marathon without noticing.
+
+To navigate like a pro, remember four tips. First, carry business cards or QR codes so vendors can log your details instantly. Second, know the MOQ—the minimum order quantity. Most booths sell by carton rather than single pieces, though samples can be negotiated. Third, take advantage of onsite services: freight forwarders, customs brokers, quality inspectors, and banks all operate inside the market, so you can place an order, arrange shipping, and track it online before you leave. Fourth, respect intellectual property—Yiwu authorities shut down copycat booths quickly, so work with authorised suppliers and sign clear contracts covering logos and packaging.
+
+Yiwu isn’t just a market; it’s an international community. You’ll hear Arabic, Russian, Spanish, and English in the same aisle. Halal restaurants sit next to Sichuan noodle bars. At night, head to “Exotic Street” near Binwang Market to try Middle Eastern barbecue or African coffee. Live-streaming studios broadcast new gadgets, and start-up designers test prototypes on the spot.
+
+If you need a break from bargaining, visit Xiuhu Park for a lakeside stroll or take a short ride to Fotang Ancient Town to see Ming and Qing architecture. Yiwu also hosts trade fairs year-round, so the city stays lively even during traditional off-seasons.
+
+Practical reminders: wear comfortable shoes and bring water—air-conditioning is strong indoors but you’ll cover serious ground. Keep receipts and double-check product specs before paying deposits. Handle large payments through banks or digital transfers rather than carrying piles of cash. When bargaining, stay patient and friendly; relationships matter more than saving a few yuan.
+
+By the time we board the bus home, I hope you’ll appreciate Yiwu’s hustle. It’s a place where family workshops, global retailers, and curious travellers share the same corridors. There truly is “no deal too small”—and that entrepreneurial spirit is the perfect way to end our Zhejiang journey.
+
+**Prompt Words:** barter origin (chicken feathers) · 5 districts + 75k booths + 400k products · hours 9–5 & 200+ countries · pro tips (cards/MOQ/services/IP) · multicultural aisles & Exotic Street · side trips Xiuhu/Fotang · banking/receipt etiquette · friendly bargaining · entrepreneurial finale
 
 ### 中文原稿
 

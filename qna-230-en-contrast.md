@@ -34,7 +34,7 @@
   - English: In what ways does a guide’s work really make a difference?
 - **回答 Answer**
   - 中文：1）纽带作用；2）标志作用；3）反馈作用；4）扩散作用。
-  - English: A guide keeps everyone connected, represents the tour to the outside world, relays feedback up and down the chain, and helps good information travel further.
+  - English: A guide keeps a connection (travel agency and tourists), represents the tour to the outside world, relays feedback up and down the chain, and helps good information travel further.
 
 ### 5. 导游服务质量主要由哪几方面组成？
 - **问题 Question**
